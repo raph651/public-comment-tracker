@@ -3,9 +3,8 @@ name: Sync Comments & Deploy to GitHub Pages
 on:
   push:
     branches: ["main"]
-  schedule:
-    # Runs every 6 hours until the comment period ends on Nov 10, 2026 EST
-    - cron: "37 */6 * * *"
+  # Schedule re-enabled once the OPT store is seeded, so the first run does
+  # not have to fetch 3,700 comments inside a single job.
   workflow_dispatch:
 
 permissions:
