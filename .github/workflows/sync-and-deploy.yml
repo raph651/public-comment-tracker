@@ -58,7 +58,10 @@ jobs:
         run: |
           node --experimental-strip-types scripts/pipeline.ts --docket h1b
 
+      # Held until the OPT store is seeded: without it this step would fetch
+      # ~3,700 comments inside a single job.
       - name: Fetch new comments & classify with Gemini (OPT)
+        if: ${{ false }}
         env:
           REGULATIONS_API_KEY: ${{ secrets.REGULATIONS_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
