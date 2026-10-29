@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.env.*
+*.env
+data/
+
+# shipped seed so CI can bootstrap the store (data/ itself stays ignored)
+!data-seed.tar.gz

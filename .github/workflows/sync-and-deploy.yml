@@ -1,0 +1,115 @@
+name: Sync Comments & Deploy to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    # Runs every 6 hours until the comment period ends on Nov 10, 2026 EST
+    - cron: "37 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  sync-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 22+
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # The comment store is far too large to commit, so it lives in the
+      # Actions cache. A committed compressed seed bootstraps the first run;
+      # every later run restores the cached store and only fetches the delta.
+      - name: Restore comment store
+        uses: actions/cache@v4
+        with:
+          path: data
+          key: comment-store-${{ github.run_id }}
+          restore-keys: |
+            comment-store-
+
+      - name: Seed store on first run
+        run: |
+          if [ ! -f data/h1b/list.jsonl ]; then
+            echo "no cached store; extracting seed"
+            tar xzf data-seed.tar.gz
+          else
+            echo "restored $(wc -l < data/h1b/list.jsonl) comments from cache"
+          fi
+
+      - name: Fetch new comments & classify with Gemini (H-1B)
+        env:
+          REGULATIONS_API_KEY: ${{ secrets.REGULATIONS_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          node --experimental-strip-types scripts/pipeline.ts --docket h1b
+
+      - name: Fetch new comments & classify with Gemini (OPT)
+        env:
+          REGULATIONS_API_KEY: ${{ secrets.REGULATIONS_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          node --experimental-strip-types scripts/pipeline.ts --docket opt
+
+      - name: Build TypeScript frontend for GitHub Pages
+        run: |
+          node --experimental-strip-types scripts/build.ts
+
+      - name: Commit updated comment snapshot
+        # A failed data commit must not block the deploy; the site should still
+        # publish the snapshot it just built.
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data docs/app.js docs/*.html
+          git diff --staged --quiet || git commit -m "chore(data): update USCIS-2026-0364-0001 comment classifications"
+          echo "--- pushing data commit ---"
+          git push || echo "push skipped (nothing new or rejected)"
+
+      # GitHub Pages cannot be served from a private repo on a free plan.
+      # Skip deployment while the repo is private; it resumes automatically
+      # on the next run once the repo is switched to public.
+      - name: Check whether Pages deployment is possible
+        id: pages-check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VISIBILITY=$(gh api "repos/${{ github.repository }}" --jq '.private')
+          if [ "$VISIBILITY" = "false" ]; then
+            echo "Repo is public - Pages deployment enabled."
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Repo is private - skipping Pages deployment (free plan limitation)."
+            echo "deploy=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Configure GitHub Pages
+        if: steps.pages-check.outputs.deploy == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages artifact (docs/)
+        if: steps.pages-check.outputs.deploy == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./docs"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        if: steps.pages-check.outputs.deploy == 'true'
+        uses: actions/deploy-pages@v4

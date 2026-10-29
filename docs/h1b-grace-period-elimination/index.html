@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DHS Public Comments Tracker - Eliminating the Discretionary 60-Day Grace Period</title>
+  <meta name="description" content="Comment counts and stance breakdown for DHS's proposed rule eliminating the discretionary 60-day grace period. Refreshed every 6 hours from Regulations.gov." />
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <meta name="theme-color" content="#fcfbf8" />
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body data-docket="h1b" data-base="../">
+  <main class="page">
+
+    <section class="timer" aria-label="Time remaining in the comment period">
+      <p id="countdown" class="timer-value" role="timer" aria-live="off"></p>
+      <p class="timer-date">Ends at <time id="deadline" datetime="2026-11-11T04:59:59Z">Nov 10, 2026, 11:59 PM EST</time></p>
+    </section>
+
+    <header class="masthead">
+      <p class="kicker">DHS proposed a rule</p>
+      <h1 class="title">
+        <a href="https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period" target="_blank" rel="noopener noreferrer">
+          Eliminating the Discretionary 60-Day Grace Period
+        </a>
+      </h1>
+      <p class="docket">
+        <a href="https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period" target="_blank" rel="noopener noreferrer">USCIS-2026-0364-0001 · RIN 1615-AD22</a>
+      </p>
+      <p class="masthead-note">This page tracks public comment sentiment on the proposed rule.</p>
+    </header>
+
+
+    <hr class="rule" />
+
+    <section class="counts" aria-labelledby="count-heading">
+      <h2 id="count-heading" class="count-heading">Count — refreshed every 6hrs, data from <a href="https://www.regulations.gov/document/USCIS-2026-0364-0001/comment" target="_blank" rel="noopener noreferrer">Regulations.gov</a></h2>
+      <div class="total-row">
+        <p class="total">
+          <span id="n-total" class="total-value">—</span>
+          <span class="total-unit">comments filed</span>
+        </p>
+        <p class="synced">Last refreshed <span id="synced">—</span></p>
+      </div>
+
+      <div id="bar" class="bar" role="img" aria-label="Stance split of filed comments">
+        <span id="bar-support" class="seg seg-support" style="width:0%"></span>
+        <span id="bar-oppose" class="seg seg-oppose" style="width:0%"></span>
+        <span id="bar-cant" class="seg seg-cant" style="width:0%"></span>
+      </div>
+
+      <dl class="legend">
+        <div class="legend-item">
+          <dt><i class="dot dot-support"></i>Support</dt>
+          <dd id="n-support">—</dd>
+        </div>
+        <div class="legend-item">
+          <dt><i class="dot dot-oppose"></i>Oppose</dt>
+          <dd id="n-oppose">—</dd>
+        </div>
+        <div class="legend-item">
+          <dt>
+            <i class="dot dot-cant"></i>Can't tell
+            <span class="info" tabindex="0" role="note"
+                  data-tip="No stance was readable in the text — usually an attachment-only comment, which can't be opened from here.">i</span>
+          </dt>
+          <dd id="n-cant">—</dd>
+        </div>
+      </dl>
+
+      <p class="model-note">Analyzed by <span id="model-name">gemini-3.5-flash-lite</span></p>
+    </section>
+
+    <hr class="rule" />
+
+    <section class="history" aria-labelledby="history-heading">
+      <div class="history-head">
+        <h2 id="history-heading" class="micro">Comments over time</h2>
+        <div class="history-controls">
+          <select id="tag-select" class="select" aria-label="Filter by campaign tag" hidden></select>
+          <div class="toggle" id="chart-toggle" role="group" aria-label="Chart units">
+            <button type="button" class="toggle-btn is-active" data-mode="pct" aria-pressed="true">Share</button>
+            <button type="button" class="toggle-btn" data-mode="count" aria-pressed="false">Counts</button>
+          </div>
+        </div>
+      </div>
+
+      <figure class="chart-figure">
+        <div id="line-chart" class="chart" role="img" aria-label="Support and oppose share of comments over time"></div>
+        <figcaption class="chart-cap" id="chart-cap">
+          <span class="cap-item"><i class="dot dot-support"></i>Support</span>
+          <span class="cap-item"><i class="dot dot-oppose"></i>Oppose</span>
+          <span class="cap-item"><i class="dot dot-cant"></i>Can't tell</span>
+          <span id="history-status" class="cap-note"></span>
+        </figcaption>
+      </figure>
+
+      <div class="share-block">
+        <div class="donut-wrap">
+          <div id="donut" class="donut" role="img" aria-label="Share of comments at the selected snapshot"></div>
+        </div>
+        <div class="donut-side">
+          <p id="donut-date" class="donut-date">—</p>
+          <dl id="donut-legend" class="dl-rows"></dl>
+        </div>
+      </div>
+
+      <div class="slider-row">
+        <label class="micro slider-label" for="timeline">Timeline</label>
+        <input id="timeline" class="slider" type="range" min="0" max="0" value="0" step="1" aria-label="Select a date in the comment period" />
+        <span id="timeline-range" class="slider-range">—</span>
+      </div>
+    </section>
+
+    <section class="note" aria-labelledby="note-heading">
+      <h2 id="note-heading" class="micro">Disclaimer</h2>
+      <p>
+        This page is informational only. It is not a solicitation, it makes no recommendations,
+        it carries no legal advertising, and it provides no software service.
+      </p>
+      <p>
+        Comments are public records of the people who wrote them, not of this page. Nothing here
+        stands in for the comments themselves — read them in full at
+        <a href="https://www.regulations.gov/document/USCIS-2026-0364-0001/comment" target="_blank" rel="noopener noreferrer">Regulations.gov</a>.
+      </p>
+    </section>
+
+    <footer class="foot">
+      <p>
+        <button type="button" class="link-btn" id="open-method">Method</button>
+        <span class="foot-dot">·</span>
+        <a href="https://www.regulations.gov/document/USCIS-2026-0364-0001" target="_blank" rel="noopener noreferrer">Docket USCIS-2026-0364</a>
+      </p>
+      <p class="cross-link"><a href="../">See more cases →</a></p>
+    </footer>
+
+  </main>
+  <dialog id="method-dialog" class="method-dialog" aria-labelledby="method-heading">
+    <form method="dialog">
+      <button class="method-close" aria-label="Close method">&times;</button>
+    </form>
+    <h2 id="method-heading" class="micro">Method</h2>
+    <p>Every comment is pulled from Regulations.gov (docket USCIS-2026-0364), through a bulk export plus a six-hourly check for new submissions. Withdrawn comments are excluded, leaving 26,844.</p>
+    <p>Each comment's text is classified as Support, Oppose, or Can't tell by gemini-3.5-flash-lite, prompted to judge only the stance toward this rule.</p>
+    <p>1.1% remain Can't tell — attachment-only comments whose text can't be read here, punctuation-only entries, and submissions about a different docket.</p>
+    <p>This is a model's reading of the text, not a legal opinion or a human review of every comment. Attachments are not fetched. Counts follow posted dates. Figures refresh every six hours; the comments themselves are public at Regulations.gov.</p>
+  </dialog>
+
+  <script type="module" src="../app.js"></script>
+</body>
+</html>

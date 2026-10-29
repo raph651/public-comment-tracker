@@ -1,0 +1,16 @@
+{
+  "name": "uscis-2026-0364-comment-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "TypeScript tracker & Gemini stance classifier for Regulations.gov docket USCIS-2026-0364-0001 (Eliminating the Discretionary 60-Day Grace Period)",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.ts",
+    "sync": "node scripts/sync-comments.ts",
+    "serve": "python3 -m http.server 8080 --directory docs",
+    "secrets": "bash scripts/set-secrets.sh"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
