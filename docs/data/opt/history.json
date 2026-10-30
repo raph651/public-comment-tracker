@@ -116,15 +116,15 @@
     {
       "t": "2026-10-30T04:00:00Z",
       "support": 547,
-      "oppose": 3906,
+      "oppose": 3916,
       "cantTell": 95,
-      "total": 4548
+      "total": 4558
     }
   ],
   "tags": [
     {
       "id": "MM15",
-      "count": 485,
+      "count": 486,
       "points": [
         {
           "t": "2026-10-19T04:00Z",
@@ -192,9 +192,9 @@
         {
           "t": "2026-10-30T04:00:00Z",
           "support": 0,
-          "oppose": 485,
+          "oppose": 486,
           "cantTell": 0,
-          "total": 485
+          "total": 486
         }
       ]
     },
