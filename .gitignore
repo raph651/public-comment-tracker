@@ -4,7 +4,7 @@ node_modules/
 .env
 .env.*
 *.env
-data/
+/data/
 
 # shipped seed so CI can bootstrap the store (data/ itself stays ignored)
 !data-seed.tar.gz

@@ -1,0 +1,401 @@
+{
+  "source": "comments",
+  "points": [
+    {
+      "t": "2026-10-08T04:00Z",
+      "support": 240,
+      "oppose": 451,
+      "cantTell": 20,
+      "total": 711
+    },
+    {
+      "t": "2026-10-09T04:00Z",
+      "support": 290,
+      "oppose": 830,
+      "cantTell": 27,
+      "total": 1147
+    },
+    {
+      "t": "2026-10-11T04:00Z",
+      "support": 297,
+      "oppose": 907,
+      "cantTell": 28,
+      "total": 1232
+    },
+    {
+      "t": "2026-10-13T04:00Z",
+      "support": 396,
+      "oppose": 1639,
+      "cantTell": 40,
+      "total": 2075
+    },
+    {
+      "t": "2026-10-14T04:00Z",
+      "support": 419,
+      "oppose": 1809,
+      "cantTell": 47,
+      "total": 2275
+    },
+    {
+      "t": "2026-10-15T04:00Z",
+      "support": 428,
+      "oppose": 1946,
+      "cantTell": 51,
+      "total": 2425
+    },
+    {
+      "t": "2026-10-16T04:00Z",
+      "support": 436,
+      "oppose": 2098,
+      "cantTell": 55,
+      "total": 2589
+    },
+    {
+      "t": "2026-10-19T04:00Z",
+      "support": 468,
+      "oppose": 2325,
+      "cantTell": 58,
+      "total": 2851
+    },
+    {
+      "t": "2026-10-20T04:00Z",
+      "support": 472,
+      "oppose": 2491,
+      "cantTell": 58,
+      "total": 3021
+    },
+    {
+      "t": "2026-10-21T04:00Z",
+      "support": 472,
+      "oppose": 2578,
+      "cantTell": 58,
+      "total": 3108
+    },
+    {
+      "t": "2026-10-22T04:00Z",
+      "support": 483,
+      "oppose": 2753,
+      "cantTell": 61,
+      "total": 3297
+    },
+    {
+      "t": "2026-10-23T04:00Z",
+      "support": 490,
+      "oppose": 3014,
+      "cantTell": 66,
+      "total": 3570
+    },
+    {
+      "t": "2026-10-26T04:00Z",
+      "support": 504,
+      "oppose": 3261,
+      "cantTell": 77,
+      "total": 3842
+    },
+    {
+      "t": "2026-10-27T04:00Z",
+      "support": 506,
+      "oppose": 3376,
+      "cantTell": 79,
+      "total": 3961
+    },
+    {
+      "t": "2026-10-28T04:00Z",
+      "support": 527,
+      "oppose": 3588,
+      "cantTell": 85,
+      "total": 4200
+    },
+    {
+      "t": "2026-10-29T04:00Z",
+      "support": 546,
+      "oppose": 3805,
+      "cantTell": 92,
+      "total": 4443
+    }
+  ],
+  "tags": [
+    {
+      "id": "MM15",
+      "count": 470,
+      "points": [
+        {
+          "t": "2026-10-19T04:00Z",
+          "support": 0,
+          "oppose": 22,
+          "cantTell": 0,
+          "total": 22
+        },
+        {
+          "t": "2026-10-20T04:00Z",
+          "support": 0,
+          "oppose": 122,
+          "cantTell": 0,
+          "total": 122
+        },
+        {
+          "t": "2026-10-21T04:00Z",
+          "support": 0,
+          "oppose": 161,
+          "cantTell": 0,
+          "total": 161
+        },
+        {
+          "t": "2026-10-22T04:00Z",
+          "support": 0,
+          "oppose": 244,
+          "cantTell": 0,
+          "total": 244
+        },
+        {
+          "t": "2026-10-23T04:00Z",
+          "support": 0,
+          "oppose": 285,
+          "cantTell": 0,
+          "total": 285
+        },
+        {
+          "t": "2026-10-26T04:00Z",
+          "support": 0,
+          "oppose": 337,
+          "cantTell": 0,
+          "total": 337
+        },
+        {
+          "t": "2026-10-27T04:00Z",
+          "support": 0,
+          "oppose": 367,
+          "cantTell": 0,
+          "total": 367
+        },
+        {
+          "t": "2026-10-28T04:00Z",
+          "support": 0,
+          "oppose": 428,
+          "cantTell": 0,
+          "total": 428
+        },
+        {
+          "t": "2026-10-29T04:00Z",
+          "support": 0,
+          "oppose": 470,
+          "cantTell": 0,
+          "total": 470
+        }
+      ]
+    },
+    {
+      "id": "MM1",
+      "count": 115,
+      "points": [
+        {
+          "t": "2026-10-08T04:00Z",
+          "support": 86,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 86
+        },
+        {
+          "t": "2026-10-09T04:00Z",
+          "support": 95,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 95
+        },
+        {
+          "t": "2026-10-11T04:00Z",
+          "support": 98,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 98
+        },
+        {
+          "t": "2026-10-13T04:00Z",
+          "support": 110,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 110
+        },
+        {
+          "t": "2026-10-14T04:00Z",
+          "support": 111,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 111
+        },
+        {
+          "t": "2026-10-19T04:00Z",
+          "support": 113,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 113
+        },
+        {
+          "t": "2026-10-26T04:00Z",
+          "support": 114,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 114
+        },
+        {
+          "t": "2026-10-28T04:00Z",
+          "support": 115,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 115
+        }
+      ]
+    },
+    {
+      "id": "MM14",
+      "count": 56,
+      "points": [
+        {
+          "t": "2026-10-16T04:00Z",
+          "support": 0,
+          "oppose": 14,
+          "cantTell": 0,
+          "total": 14
+        },
+        {
+          "t": "2026-10-19T04:00Z",
+          "support": 0,
+          "oppose": 35,
+          "cantTell": 0,
+          "total": 35
+        },
+        {
+          "t": "2026-10-20T04:00Z",
+          "support": 0,
+          "oppose": 39,
+          "cantTell": 0,
+          "total": 39
+        },
+        {
+          "t": "2026-10-21T04:00Z",
+          "support": 0,
+          "oppose": 40,
+          "cantTell": 0,
+          "total": 40
+        },
+        {
+          "t": "2026-10-22T04:00Z",
+          "support": 0,
+          "oppose": 48,
+          "cantTell": 0,
+          "total": 48
+        },
+        {
+          "t": "2026-10-23T04:00Z",
+          "support": 0,
+          "oppose": 51,
+          "cantTell": 0,
+          "total": 51
+        },
+        {
+          "t": "2026-10-26T04:00Z",
+          "support": 0,
+          "oppose": 53,
+          "cantTell": 0,
+          "total": 53
+        },
+        {
+          "t": "2026-10-27T04:00Z",
+          "support": 0,
+          "oppose": 54,
+          "cantTell": 0,
+          "total": 54
+        },
+        {
+          "t": "2026-10-29T04:00Z",
+          "support": 0,
+          "oppose": 56,
+          "cantTell": 0,
+          "total": 56
+        }
+      ]
+    },
+    {
+      "id": "MM2",
+      "count": 29,
+      "points": [
+        {
+          "t": "2026-10-09T04:00Z",
+          "support": 0,
+          "oppose": 7,
+          "cantTell": 0,
+          "total": 7
+        },
+        {
+          "t": "2026-10-13T04:00Z",
+          "support": 0,
+          "oppose": 16,
+          "cantTell": 0,
+          "total": 16
+        },
+        {
+          "t": "2026-10-23T04:00Z",
+          "support": 0,
+          "oppose": 17,
+          "cantTell": 0,
+          "total": 17
+        },
+        {
+          "t": "2026-10-26T04:00Z",
+          "support": 0,
+          "oppose": 20,
+          "cantTell": 0,
+          "total": 20
+        },
+        {
+          "t": "2026-10-27T04:00Z",
+          "support": 0,
+          "oppose": 24,
+          "cantTell": 0,
+          "total": 24
+        },
+        {
+          "t": "2026-10-28T04:00Z",
+          "support": 0,
+          "oppose": 26,
+          "cantTell": 0,
+          "total": 26
+        },
+        {
+          "t": "2026-10-29T04:00Z",
+          "support": 0,
+          "oppose": 29,
+          "cantTell": 0,
+          "total": 29
+        }
+      ]
+    },
+    {
+      "id": "MM16",
+      "count": 22,
+      "points": [
+        {
+          "t": "2026-10-23T04:00Z",
+          "support": 0,
+          "oppose": 18,
+          "cantTell": 0,
+          "total": 18
+        },
+        {
+          "t": "2026-10-26T04:00Z",
+          "support": 0,
+          "oppose": 20,
+          "cantTell": 0,
+          "total": 20
+        },
+        {
+          "t": "2026-10-27T04:00Z",
+          "support": 0,
+          "oppose": 22,
+          "cantTell": 0,
+          "total": 22
+        }
+      ]
+    }
+  ]
+}
