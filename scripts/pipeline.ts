@@ -67,6 +67,7 @@ interface DocketConfig {
   epoch: string;
   deadlineIso: string;
   deadlineDisplay: string;
+  subject: string;
 }
 
 const DOCKETS: Record<string, DocketConfig> = {
@@ -77,7 +78,9 @@ const DOCKETS: Record<string, DocketConfig> = {
     title: 'Eliminating the Discretionary 60-Day Grace Period',
     epoch: '2026-09-11 00:00:00',
     deadlineIso: '2026-11-11T04:59:59Z',
-    deadlineDisplay: 'Nov 10, 2026 at 11:59 PM EST'
+    deadlineDisplay: 'Nov 10, 2026 at 11:59 PM EST',
+    subject:
+      'The rule ELIMINATES the discretionary up-to-60-day grace period for E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 and TN workers after employment ends. "Support" means wanting to eliminate, end, shorten or restrict the grace period; "Oppose" means wanting to keep it.'
   },
   opt: {
     slug: 'opt',
@@ -86,7 +89,9 @@ const DOCKETS: Record<string, DocketConfig> = {
     title: 'Optional Practical Training Fees',
     epoch: '2026-10-07 00:00:00',
     deadlineIso: '2026-11-10T04:59:59Z',
-    deadlineDisplay: 'Nov 9, 2026 at 11:59 PM EST'
+    deadlineDisplay: 'Nov 9, 2026 at 11:59 PM EST',
+    subject:
+      'The rule imposes new fees on Optional Practical Training (OPT) for F-1 students, reported at up to $100,000 depending on the OPT category. "Support" means supporting the OPT fee (approving it, or wanting the rule finalized); "Oppose" means opposing the fee (wanting it withdrawn, lowered, or arguing it harms students, employers or the program).'
   }
 };
 
@@ -422,9 +427,9 @@ export function heuristicStance(text: string, title: string): { stance: Stance; 
   return { stance: "Can't tell", reason: 'No explicit stance in the comment text.' };
 }
 
-const PROMPT_HEADER = `You are classifying public comments on DHS/USCIS Proposed Rule USCIS-2026-0364-0001 ("Eliminating the Discretionary 60-Day Grace Period").
+const PROMPT_HEADER = `You are classifying public comments on the DHS proposed rule "${DOCKET.title}".
 
-The rule ELIMINATES the discretionary up-to-60-day grace period for E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 and TN workers after employment ends.
+${DOCKET.subject}
 
 Classify each comment's stance toward the PROPOSED RULE with exactly one label:
 - "Support": wants to eliminate, end, shorten or restrict the grace period.
@@ -433,9 +438,9 @@ Classify each comment's stance toward the PROPOSED RULE with exactly one label:
 
 Return ONLY a JSON array of objects with keys "id", "stance", "reason" (one short sentence, under 140 chars).`;
 
-const STRICT_PROMPT_HEADER = `You are re-checking comments that were previously marked "Can't tell" on DHS/USCIS Proposed Rule USCIS-2026-0364-0001 ("Eliminating the Discretionary 60-Day Grace Period").
+const STRICT_PROMPT_HEADER = `You are re-checking comments that were previously marked "Can't tell" on the DHS proposed rule "${DOCKET.title}".
 
-The rule eliminates the discretionary up-to-60-day grace period for E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 and TN workers after employment ends.
+${DOCKET.subject}
 
 Decide each comment's stance toward THIS rule:
 - "Support": wants to eliminate, end, shorten or restrict the grace period.
