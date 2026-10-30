@@ -720,6 +720,14 @@ async function init(): Promise<void> {
 
   renderCounts(summary);
   if (summary.model) setText('model-name', summary.model);
+
+  // The method dialog quotes this docket's own figures.
+  const total = summary.totalPublishedOnDocket || 0;
+  const cantTell = summary.counts?.["Can't tell"] || 0;
+  if (total > 0) {
+    setText('method-total', formatCount(total));
+    setText('method-cant', `${((cantTell / total) * 100).toFixed(1)}%`);
+  }
   setText('synced', formatInEastern(summary.lastSyncedAt, 'synced'));
 
   const history = await loadHistory(summary);
