@@ -43,14 +43,19 @@ jobs:
           restore-keys: |
             comment-store-
 
-      - name: Seed store on first run
+      - name: Seed any missing docket store
+        # Per docket, not all-or-nothing: a cache restored from an earlier run
+        # may hold only one store, and a missing docket would otherwise be
+        # refetched from scratch (4,400 comments at 1,000/hour).
         run: |
-          if [ ! -f data/h1b/list.jsonl ]; then
-            echo "no cached store; extracting seed"
-            tar xzf data-seed.tar.gz
-          else
-            echo "restored $(wc -l < data/h1b/list.jsonl) comments from cache"
-          fi
+          for d in h1b opt; do
+            if [ -f "data/$d/list.jsonl" ]; then
+              echo "$d: $(wc -l < "data/$d/list.jsonl") comments from cache"
+            else
+              echo "$d: not in cache; extracting from seed"
+              tar xzf data-seed.tar.gz "data/$d"
+            fi
+          done
 
       - name: Fetch new comments & classify with Gemini (H-1B)
         env:
