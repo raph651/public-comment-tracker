@@ -4,120 +4,127 @@
     {
       "t": "2026-10-08T04:00Z",
       "support": 240,
-      "oppose": 453,
-      "cantTell": 18,
+      "oppose": 451,
+      "cantTell": 20,
       "total": 711
     },
     {
       "t": "2026-10-09T04:00Z",
-      "support": 291,
-      "oppose": 832,
-      "cantTell": 24,
+      "support": 290,
+      "oppose": 830,
+      "cantTell": 27,
       "total": 1147
     },
     {
       "t": "2026-10-11T04:00Z",
-      "support": 298,
-      "oppose": 909,
-      "cantTell": 25,
+      "support": 297,
+      "oppose": 907,
+      "cantTell": 28,
       "total": 1232
     },
     {
       "t": "2026-10-13T04:00Z",
-      "support": 400,
-      "oppose": 1641,
-      "cantTell": 34,
+      "support": 396,
+      "oppose": 1639,
+      "cantTell": 40,
       "total": 2075
     },
     {
       "t": "2026-10-14T04:00Z",
-      "support": 423,
-      "oppose": 1812,
-      "cantTell": 40,
+      "support": 419,
+      "oppose": 1809,
+      "cantTell": 47,
       "total": 2275
     },
     {
       "t": "2026-10-15T04:00Z",
-      "support": 432,
-      "oppose": 1951,
-      "cantTell": 42,
+      "support": 428,
+      "oppose": 1946,
+      "cantTell": 51,
       "total": 2425
     },
     {
       "t": "2026-10-16T04:00Z",
-      "support": 440,
-      "oppose": 2104,
-      "cantTell": 45,
+      "support": 436,
+      "oppose": 2098,
+      "cantTell": 55,
       "total": 2589
     },
     {
       "t": "2026-10-19T04:00Z",
-      "support": 472,
-      "oppose": 2331,
-      "cantTell": 48,
+      "support": 468,
+      "oppose": 2325,
+      "cantTell": 58,
       "total": 2851
     },
     {
       "t": "2026-10-20T04:00Z",
-      "support": 476,
-      "oppose": 2497,
-      "cantTell": 48,
+      "support": 472,
+      "oppose": 2491,
+      "cantTell": 58,
       "total": 3021
     },
     {
       "t": "2026-10-21T04:00Z",
-      "support": 476,
-      "oppose": 2584,
-      "cantTell": 48,
+      "support": 472,
+      "oppose": 2578,
+      "cantTell": 58,
       "total": 3108
     },
     {
       "t": "2026-10-22T04:00Z",
-      "support": 487,
-      "oppose": 2760,
-      "cantTell": 50,
+      "support": 483,
+      "oppose": 2753,
+      "cantTell": 61,
       "total": 3297
     },
     {
       "t": "2026-10-23T04:00Z",
-      "support": 494,
-      "oppose": 3021,
-      "cantTell": 55,
+      "support": 490,
+      "oppose": 3014,
+      "cantTell": 66,
       "total": 3570
     },
     {
       "t": "2026-10-26T04:00Z",
-      "support": 508,
-      "oppose": 3268,
-      "cantTell": 66,
+      "support": 504,
+      "oppose": 3261,
+      "cantTell": 77,
       "total": 3842
     },
     {
       "t": "2026-10-27T04:00Z",
-      "support": 510,
-      "oppose": 3383,
-      "cantTell": 68,
+      "support": 506,
+      "oppose": 3376,
+      "cantTell": 79,
       "total": 3961
     },
     {
       "t": "2026-10-28T04:00Z",
-      "support": 531,
-      "oppose": 3595,
-      "cantTell": 74,
+      "support": 527,
+      "oppose": 3588,
+      "cantTell": 85,
       "total": 4200
     },
     {
       "t": "2026-10-29T04:00Z",
-      "support": 550,
-      "oppose": 3812,
-      "cantTell": 81,
-      "total": 4443
+      "support": 546,
+      "oppose": 3815,
+      "cantTell": 93,
+      "total": 4454
+    },
+    {
+      "t": "2026-10-30T04:00:00Z",
+      "support": 547,
+      "oppose": 3906,
+      "cantTell": 95,
+      "total": 4548
     }
   ],
   "tags": [
     {
       "id": "MM15",
-      "count": 470,
+      "count": 485,
       "points": [
         {
           "t": "2026-10-19T04:00Z",
@@ -181,6 +188,13 @@
           "oppose": 470,
           "cantTell": 0,
           "total": 470
+        },
+        {
+          "t": "2026-10-30T04:00:00Z",
+          "support": 0,
+          "oppose": 485,
+          "cantTell": 0,
+          "total": 485
         }
       ]
     },
