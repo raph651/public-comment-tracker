@@ -7,17 +7,7 @@
   "model": "gemini-3.5-flash-lite",
   "deadlineIso": "2026-11-11T04:59:59Z",
   "deadlineDisplay": "Nov 10, 2026 at 11:59 PM EST",
-<<<<<<< HEAD
-  "lastSyncedAt": "2026-11-02T06:47:19.906Z",
-  "totalPublishedOnDocket": 26947,
-  "totalIndexedInTracker": 26947,
-  "classifiedCount": 26947,
-  "counts": {
-    "Support": 8520,
-    "Oppose": 18134,
-    "Can't tell": 293
-=======
-  "lastSyncedAt": "2026-11-02T10:54:48.544Z",
+  "lastSyncedAt": "2026-11-02T10:56:42.963Z",
   "totalPublishedOnDocket": 26958,
   "totalIndexedInTracker": 26958,
   "classifiedCount": 26958,
@@ -25,7 +15,6 @@
     "Support": 8524,
     "Oppose": 18149,
     "Can't tell": 285
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
   },
   "comments": [
     {
@@ -50,11 +39,7 @@
       "campaignId": null,
       "commentText": "I oppose eliminating the discretionary 60-day grace period for nonimmigrant workers and their dependents.<br/><br/>The 60-day grace period provides an essential safety net for highly skilled professionals who have built their careers, families, and lives in the United States. Job losses can occur unexpectedly due to layoffs, restructuring, or economic conditions beyond an employee&rsquo;s control. Eliminating this protection would create significant uncertainty and hardship for workers and their families.<br/><br/>I respectfully urge DHS to retain the existing 60-day grace period and consider the substantial economic, professional, and humanitarian consequences of eliminating it. Immigration policies should provide reasonable flexibility for law-abiding professionals while maintaining appropriate oversight and enforcement.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes eliminating the grace period and urges DHS to retain it.",
-=======
       "reason": "The commenter explicitly opposes eliminating the grace period and asks DHS to retain it.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26891"
     },
@@ -80,11 +65,7 @@
       "campaignId": null,
       "commentText": "This rule would cause lasting harm to the United States by driving away qualified, talented professionals and discouraging others from pursuing employment here. It is a decision driven by politics rather than sound policy. As a proud sponsor of professionals on H-1B visas, we strongly condemn this proposal and urge policymakers to reject it.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues the rule causes harm and urges policymakers to reject it.",
-=======
       "reason": "The commenter strongly condemns the proposal and urges policymakers to reject it.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26893"
     },
@@ -97,11 +78,7 @@
       "campaignId": null,
       "commentText": "Dear DHS,<br/><br/>Why are people who came to the US legally being punished this way? What will US achieve by eliminating this humane rule. 60 days is not a lot of considering we (like you) have family (with young kids), lives, and other logistics that needs to be wrapped up. Most of us are tax abiding, rule following residents who have contributed to the US economy by consumer spend, following rules and paying taxes. If we lose our job, this 60 day period allows us to wrap up things and fly back. Please don&#39;t take this away. Treat people equally. This shouldn&#39;t be politically motivated. Imagine you are in another country legally, bought a house, have cars and your kids study in schools - how disruptive would it be to have your live completely uprooted just because you lost your job?",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues against eliminating the rule, stating that the 60-day grace period is necessary to wrap up affairs.",
-=======
       "reason": "The commenter argues against removing the grace period, stating it is humane and necessary to wrap up affairs.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26894"
     },
@@ -114,11 +91,7 @@
       "campaignId": null,
       "commentText": "To the Department of Homeland Security and U.S. Citizenship and Immigration Services,<br/><br/>I am writing as a concerned nonimmigrant worker currently in the United States under an H-1B visa to express my strong opposition to the proposed rule seeking to eliminate the discretionary 60-day grace period for classifications including H-1B, L-1, O-1, and others. While I understand the agency&rsquo;s desire to align regulations with statutory purposes and reduce administrative burdens, this proposal fails to account for the profound human, economic, and community costs that would result from such a drastic change.<br/><br/>Personal Impact and Economic Contribution: My spouse and I moved to Horsham, PA, in 2012 with a dream of contributing to the American technological landscape. For over 14 years, I have worked at the forefront of field service management software - a critical infrastructure component for public utilities and organizations worldwide. My work has helped modernize how essential services (via field service management) are delivered by integrating IoT, Cloud computing, SaaS, and Artificial Intelligence into systems that serve millions of people.  Note: I have been on H1B visa for the last 14 years and currently impacted by long backlog in green card processing.<br/><br/>Furthermore, my spouse (initially on an H-4 visa and then on H1B) has been a dedicated researcher and professional who, upon obtaining her H4 EAD, joined a public company to eliminate corporate waste and boost profitability through data analysis. She also helped one of the largest retailers in the United States to optimize supply chains during a period of extreme global instability.  She continues to be a thought leader in supply chain, data engineering and AI.<br/><br/>The Critical Importance of the Grace Period: During the COVID-19 pandemic, my spouse lost her job due to circumstances entirely outside of her control. The existing 60-day grace period was the lifeline that allowed our family - specifically our young daughter (US Citizen) who attends public school system to remain stable while my spouse secured new employment with a different organization. Without those 60 days, we would have been forced to leave immediately, displacing our daughter from her education and impacting my ability to build the next frontier in field service management.<br/><br/>Community Integration and &quot;Reliance Interests&quot;: The proposed rule ignores the concept of &quot;reliance.&quot; Over the last decade, we have:<br/><br/>1. Purchased a home, paid taxes, and established credit and bank accounts.<br/>2. Actively participated in our local community by supporting schools, non-profit organizations, volunteering and hosting free skill-building workshops.<br/>3. Supported the neighborhood during covid pandemic by providing food and contributing to local community.<br/><br/>If an H-1B worker is forced to depart the country &quot;the next day&quot; following a job loss, regardless of how exemplary their record has been, it creates a massive logistical and financial catastrophe. It would force the immediate abandonment of homes, vehicles, utilities, and local community ties that took years to build.  It would also force their young dependent US citizen children, who have not known any country, to depart the country and severely impact their education and future prospects. <br/><br/>Conclusion: The current grace period is already quite short; eliminating it entirely serves no functional purpose for program integrity while causing irreparable harm to families who have followed every rule and invested their lives into the American fabric. I urge USCIS to maintain the discretionary grace period as a necessary safeguard that protects the interests of high-skilled workers, their families, and the local communities that rely on their presence and contributions.<br/><br/>Sincerely,<br/>One Non-immigrant",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter strongly opposes eliminating the grace period, citing personal and economic impacts on skilled workers.",
-=======
       "reason": "The commenter explicitly expresses strong opposition to the proposed rule eliminating the 60-day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26895"
     },
@@ -131,11 +104,7 @@
       "campaignId": null,
       "commentText": "​I came to the United States when I turned 22, and I am now 38. For the past 16 years&mdash;my entire adult and professional life&mdash;I have lived, worked, and paid taxes exclusively in the United States. I do not have earned income anywhere else in the world. My skills, my career, and my life are built entirely around the U.S. economy; if I am forced to return to my birth country now, my family and I will be starting completely from scratch after nearly two decades of contributing here.<br/>​More importantly, I have two children who are U.S. citizens by birth and attend school here. My older child is 6 years old, and he breaks down crying at the mere thought of having to leave the United States someday. My younger child is just 4 months old. They love their country just as deeply as any child whose parents are American&mdash;because America is the only home they know.<br/>​For years, families like mine have lived under the weight of an employment-based green card backlog with no end in sight. It is deeply painful that someone who has worked hard for 16 years, followed every rule, and proven beyond doubt that they belong here is forced to wait indefinitely in a multi-decade queue, while others wait less than a year. Yet we have stopped complaining about how unfair that system is. We have accepted the wait, complied with every regulation, and continued contributing to our workplaces and communities.<br/>​However, removing or restricting the 60-day grace period will be devastating for our children and for us, pushing law-abiding families into an impossible trap. Mandatory federal timelines alone take weeks, and even when a skilled professional secures a new job immediately after an unexpected layoff or corporate restructuring, an employer cannot legally file an H-1B transfer overnight. Between corporate background checks, prevailing wage determinations, and mandatory Department of Labor Labor Condition Application (LCA) certification&mdash;which takes 7 to 10 business days by statute&mdash;the transfer process routinely requires 4 to 8 weeks. Without a 60-day buffer, a routine corporate layoff outside of a worker&#39;s control becomes an automatic loss of legal status.<br/>​At the same time, uprooting 16 years of life overnight is logistically impossible. If a family is forced to depart after nearly two decades in this country, wrapping up a household cannot physically or legally happen in a matter of days. Selling a home or ending a lease, closing accounts, pulling a 6-year-old out of elementary school mid-year, and obtaining passports, travel visas, and pediatric medical clearance for a 4-month-old infant takes months. Eliminating the 60-day buffer strips compliant families of the bare minimum time required to either transition employment lawfully or depart safely without accruing unlawful presence. Furthermore, uprooting a family with zero buffer inflicts direct harm and severe psychological, educational, and medical disruption on U.S. citizen children&mdash;pulling a first-grader away from his school and peers overnight and interrupting critical early-life pediatric care and immunization schedules for a 4-month-old baby.<br/>​Beyond the toll on immigrant families, forcing abrupt departures directly harms American communities and the broader U.S. economy. Long-term H-1B families who have lived here for 15 or more years are deeply integrated into their local economies&mdash;owning homes, signing long-term leases, buying cars, and paying federal, state, Social Security, Medicare, and local property taxes that fund public schools and local infrastructure. Forcing families to abandon their lives overnight leaves landlords with broken leases, triggers distressed home sales or unpaid mortgages and property taxes, pulls consumers out of local businesses, and creates sudden talent vacuums for U.S. employers&mdash;all without creating a single job for American workers.<br/>​We are not asking to skip the line or even for an immediate fix to the green card backlog. All we ask is that you show basic grace, humanity, and kindness. Please keep the 60-day grace period intact so that hardworking, law-abiding families, their U.S. citizen children, and the American communities they support are not thrown into sudden, life-altering chaos.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the grace period would devastate long-term tax-paying workers and their U.S. citizen children.",
-=======
       "reason": "The commenter argues that removing the grace period would devastate long-term tax-paying workers and their families.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26896"
     },
@@ -148,11 +117,7 @@
       "campaignId": null,
       "commentText": "Please do not eliminate this grace period.<br/><br/>Introduction<br/><br/>I am an H-1B visa holder and the mother of a two-year-old child. I came here legally 13 years ago, I have worked hard, I pay my taxes, and I have built my career and my family&#39;s entire life in the United States. Yet I live every day knowing that a single email from my employer could unravel all of it. The 60-day grace period is the one thin thread of safety my family has. I choose to speak while that thread is getting prepared to be cut.<br/><br/>Background<br/><br/>My comment concerns the proposal to eliminate the up-to-60-day grace period for H-1B workers after a loss of employment. Today, a worker whose job ends before their petition validity expires has up to 60 days to find new employment, change status, or arrange an orderly departure. The proposal would take that window away entirely.<br/><br/>Analysis<br/><br/>What problem does this solve? I sincerely ask the agency to explain what problem eliminating this grace period solves. Sixty days is already painfully short. What it does is turn an involuntary event of losing a job into unlawful presence overnight. People who have done nothing wrong would wake up as rule-breakers through no act of their own.<br/><br/>What it would do to my family. Losing a job is devastating for anyone. On an employment-based visa it is far worse: in the same moment you lose your income, you lose your legal right to be in the place you call home. With AI-driven layoffs sweeping the technology sector, where so many H-1B workers are employed, this is no longer a distant possibility. It is a fear that wakes me up at night. I cannot uproot my child and move my family to another country within hours. Sixty days is already the bare minimum to wind up a life built over many years: to sell a home, cars, and furniture, end leases, buy plane tickets, and somehow prepare a small child for the biggest upheaval of their life. Without it, I would be forced to choose between breaking the law and abandoning everything in a panic. No law-abiding person should be pushed into that kind of desperation.<br/><br/>The pain spreads far beyond the worker. This change hangs over the whole family as a constant, ticking fear. When a child is uprooted overnight, it is not only that child who suffers. Their friends and classmates are left wondering where they went, and other parents are left trying to explain the unexplainable. Older children and young adults feel this loss fully, including U.S. citizens who watch a close friend vanish and are left grieving, confused, and afraid. That is real grief and anxiety for citizens who did nothing to deserve it, and for families who came here legally, in good faith, chasing the opportunity this country promised.<br/><br/>The heaviest harms cannot be counted in dollars. Many of the deepest harms fall on people other than the worker: the dignity and stability of families, and above all U.S.-citizen children torn from their homes, schools, and friends overnight. The burden falls hardest on primary caregivers, who must hold their families together while their own world collapses. I urge the agency to weigh these human harms even where it cannot put a number on them.<br/><br/>What the agency must measure before acting. Before finalizing any change, I ask the agency to estimate and publish: (1) how many H-1B and other affected workers would lose their transition window each year; (2) how many dependent children would be affected, including U.S.-citizen children, who are the future of this country and whose stability the government has a duty to protect; and (3) the mental-health toll on children and caregivers of a sudden, forced relocation with no time to prepare. Losing your job, your income, and your legal status all at once, while trying to shield your children from the fallout, is a crushing psychological burden. If the agency has not estimated these figures, that alone is reason to stop and reconsider. If it has, families like mine deserve to see them.<br/><br/>Recommendation<br/><br/>I respectfully but urgently ask the agency to keep the 60-day grace period and to publish the impact assessment described above.<br/><br/>Conclusion<br/><br/>The 60-day grace period is a deeply humane provision. It is the only thing standing between a family and chaos after a sudden, involuntary loss of job and legal status. Taking it away would throw law-abiding people into desperation and cause immense, lasting anguish for families, for U.S.-citizen children, and for the communities they belong to. I am pleading with the agency: please keep the grace period in place, and look honestly at what taking it away would do to families like mine.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly asks not to eliminate the grace period and argues it protects families from sudden unlawful presence.",
-=======
       "reason": "The commenter explicitly asks not to eliminate the grace period and argues it protects families from sudden legal jeopardy.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26897"
     },
@@ -165,11 +130,7 @@
       "campaignId": null,
       "commentText": "I am writing to strongly oppose the U.S. Citizenship and Immigration Services&#39; proposal to eliminate the discretionary 60-day grace period for nonimmigrant workers (such as H-1B, L-1, O-1, TN, and E status holders) following the cessation of employment.<br/><br/>The current 60-day grace period is a vital safety net. Losing a job is an abrupt and stressful life event; eliminating this window entirely would create an unreasonable and punitive burden on skilled workers and their families. It prevents individuals from having a realistic amount of time to find new employment, transfer their visas, or execute an orderly departure from the United States.<br/><br/>Without this buffer, workers face immediate out-of-status risks through no fault of their own, which harms the predictability and attractiveness of the U.S. labor market for global talent. I urge USCIS to withdraw this proposal and maintain the existing 60-day grace period structure.<br/><br/>",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that eliminating the grace period creates an unreasonable burden and urges USCIS to maintain it.",
-=======
       "reason": "The commenter explicitly opposes eliminating the grace period and asks to maintain it.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26898"
     },
@@ -182,11 +143,7 @@
       "campaignId": null,
       "commentText": "I am writing as an individual high-skilled specialty occupation worker to express my strong opposition to the proposed rule that seeks to eliminate the 60-day post-employment grace period for H-1B and other nonimmigrant visa holders.<br/>The current 60-day grace period is not an administrative burden; it is a critical regulatory safety net. Eliminating this window completely disregards the operational realities of modern employment and creates severe, immediate hardships for workers and employers alike. I urge the Department of Homeland Security (DHS) to withdraw this proposal based on the following critical points:<br/>&bull; Complete Loss of Workplace Leverage and Safety: Forcing a worker to maintain valid status on the exact day of a layoff effectively strips them of all labor protections. Workers will face an impossible choice: tolerate unlawful, hostile, or underpaid working conditions, or face immediate deportation. This actively undermines U.S. labor standards by giving bad-actor employers total leverage over their workforce.<br/>&bull; Severe Economic and Career Disruption: High-skilled hiring processes&mdash;including interviews, background checks, and drafting complex H-1B change-of-employer petitions&mdash;routinely take several weeks to months. Expecting a worker to secure a new specialty occupation role and have a new petition filed on the single day following a sudden termination is structurally impossible. It forces brilliant, U.S.-educated talent to abruptly abandon their lives, homes, and careers.<br/>&bull; Compounding USCIS Administrative Chaos: The proposal claims to reduce administrative burdens, but it will achieve the exact opposite. Without a grace period, thousands of laid-off workers will be forced to immediately file rushed, desperate applications for a Change of Status (e.g., to B-1/B-2 visitor visas) simply to avoid unlawful presence while they pack up their lives. This will flood USCIS with a massive wave of temporary applications, drastically increasing the agency&#39;s backlogs and processing workloads.<br/>&bull; Damage to American Innovation: The United States has long been the premier destination for global talent because it offered a stable, predictable environment for professional growth. Eliminating basic workforce flexibility tells international innovators that their contributions are disposable. This rule will drive top-tier tech, medical, and engineering talent to competitor nations with more stable, humane immigration frameworks.<br/>The 60-day grace period provides a structured, lawful buffer that allows high-skilled professionals to navigate unexpected job losses gracefully, find new U.S. employers to contribute to the economy, or arrange an orderly departure. Stripping this provision away creates unnecessary chaos and human suffering without providing any measurable benefit to national security or the domestic labor market.<br/>I strongly encourage DHS to preserve the 60-day post-employment grace period in its entirety.<br/>Sincerely,<br/>Rams",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter strongly opposes eliminating the grace period, citing severe hardships and loss of worker protections.",
-=======
       "reason": "The commenter strongly opposes the elimination of the grace period, citing severe hardships and loss of worker protections.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26899"
     },
@@ -199,11 +156,7 @@
       "campaignId": null,
       "commentText": "I am writing to oppose the proposal to eliminate the 60-day grace period, because it ignores a basic fact about how an H-1B transfer actually works: even a worker who finds a new job on the very first day after a layoff cannot complete a lawful transfer in zero days.<br/><br/>I know this from experience. After a layoff, finding a willing employer is only the first step. That employer must first obtain a certified Labor Condition Application from the Department of Labor, a process that routinely takes a week or more. Then the employer must prepare and file a new H-1B petition with USCIS, and the worker must wait for a receipt notice before portability protections apply. Background checks, offer letters, and internal approvals add further days. In the fastest realistic case, the paperwork alone takes weeks &mdash; and that assumes the worker is hired immediately, which almost never happens. Most people spend the first two or three weeks interviewing, and hiring cycles at many companies run far longer than that.<br/><br/>The current 60 days is already tight. It is barely enough time to interview, receive an offer, and get a petition filed. Zero days is not a stricter standard; it is a calendar impossibility. A worker who does everything right &mdash; who is hired on day one by an employer ready to sponsor &mdash; would still fall out of status before the required filings could physically be completed. The rule would therefore punish compliance itself, not misconduct, and it would do so regardless of how diligently the worker or the new employer acted.<br/><br/>This is compounded by the government&#39;s own timelines. USCIS receipt notices and adjudication do not arrive instantly, and DHS knows it. A rule that demands same-day lawful status while the agency&#39;s own processes take days and weeks to acknowledge a filing is internally incoherent. It manufactures status violations out of its own delays.<br/><br/>If DHS is concerned about misuse of the grace period, the proportionate response is to police misuse case by case &mdash; the grace period is already discretionary &mdash; not to set a deadline that no honest worker can meet. At a minimum, any grace period must be long enough to cover the filing process DHS itself requires. I urge DHS to withdraw this proposal and retain the 60-day grace period.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes eliminating the grace period, arguing that paperwork makes zero days impossible.",
-=======
       "reason": "The commenter explicitly opposes eliminating the grace period, arguing that paperwork takes longer than zero days.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26900"
     },
@@ -216,11 +169,7 @@
       "campaignId": null,
       "commentText": "Definitely remove the 60 days grace period because there are many qualified US citizens who do not have a job and should be prioritized.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly states to remove the grace period to prioritize US citizens.",
-=======
       "reason": "The commenter wants to remove the grace period to prioritize unemployed US citizens.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26901"
     },
@@ -233,11 +182,7 @@
       "campaignId": null,
       "commentText": "We often speak of borders and policies as if they are merely lines on a map or rules in a book. And strictly speaking, it is true: no nation owes a permanent home to those who arrive from elsewhere. As someone from an OECD country, I understand this logic deeply. I wouldn&#39;t expect my own homeland to bend its rules or compromise the livelihoods of its citizens.<br/><br/>But policy on paper looks very different from policy lived out in the flesh. When a person is forced to leave a country they have woven themselves into, they aren&#39;t just crossing a line&mdash;they are tearing a tapestry apart.<br/><br/>To leave means uprooting a child from the classroom where they were finally starting to belong. It means walking away from friendships that took years to cultivate. It means selling off the car, liquidating the quiet accumulation of a life, and reducing years of effort into numbers on a closing statement.<br/><br/>The quiet tragedies are often the smallest ones. It is the sudden absence at the local mom-and-pop store. It is the missing goodbye to the landscaper, the hairdresser, the caregiver, and the grocery clerk&mdash;the familiar faces that make a neighborhood feel like a neighborhood. It is the abrupt end to the charity you gave, the community you served, and the culture you happily assimilated into.<br/><br/>We live in a world that prides itself on order and law. Yet, if a storm rolls in unexpectedly, most of us wouldn&#39;t kick a neighborhood cat off our porch. We would let her stay until the rain passed. Surely, the human beings who have poured their hearts, their labor, and their love into our communities deserve at least that same quiet grace while the weather clears.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter highlights the human cost and disruption of forced sudden departures, arguing against the rule.",
-=======
       "reason": "The commenter argues against abrupt deportation and disruption, implicitly defending the grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26902"
     },
@@ -250,11 +195,7 @@
       "campaignId": null,
       "commentText": "This is the most unreasonable thing ever. If one gets fired, you cannot expect one to just pack up everything, sell their car and discard all their belongings and pets and leave the same day. There was no specified grace period years ago, that&rsquo;s true, but it&rsquo;s not an equivalent of not having a grace period. It was up to the discretion of who&rsquo;s looking at the case. 60 days specified a clear deadline, but a 0 day grace period would make no sense and is inhumane to H1B holders.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the 60-day grace period is inhumane and unreasonable for workers.",
-=======
       "reason": "The commenter argues that removing the 60-day grace period is unreasonable and inhumane for visa holders.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26903"
     },
@@ -267,11 +208,7 @@
       "campaignId": null,
       "commentText": "My family and I do not support this proposal.<br/><br/>This is treating H1B holders like slaves instead of humans with basic human rights. There was already a lottery system to acquire H1B since the cap was not raised in decades. This is simply putting more uncertainty and fear in their lives. One cannot foresee a termination, nor can one find a valid job offer within a day. This is utterly unsettling as 2 months would mean nothing to the general public and the USCIS, but this was proposed simply to make others lives more hellish than it already might be.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter states they do not support the proposal and argues that removing the grace period harms workers.",
-=======
       "reason": "The commenter states they do not support the proposal because it increases fear and uncertainty for workers.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26904"
     },
@@ -297,11 +234,7 @@
       "campaignId": null,
       "commentText": "Disagree.<br/><br/>They&rsquo;re paying the same taxes as everyone else. You can&rsquo;t be taxing them the same while not giving them basic human rights when terminated from job. At least give them 60 days, which is not a long time at all, to look for another job that sponsors their work visa. This is capricious and cruel.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the 60-day grace period is cruel and wants to keep it.",
-=======
       "reason": "The commenter argues that removing the 60-day grace period is capricious and cruel.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26906"
     },
@@ -327,11 +260,7 @@
       "campaignId": null,
       "commentText": "I respectfully urge DHS to reconsider the proposal to eliminate the existing grace period for H-1B workers and their dependents.<br/><br/>The proposed change would have consequences far beyond the individual who loses employment. H-1B workers often have spouses and children who have lived in the United States for many years and have built their entire lives here.<br/><br/>&bull; Families need reasonable time to respond to an unexpected job loss. Losing employment is already a serious financial and emotional hardship. Eliminating the grace period could turn an unexpected layoff into an immediate immigration crisis, leaving families insufficient time to find another qualifying employer or make lawful arrangements.<br/><br/>&bull; Children should not bear the consequences of an adult&rsquo;s unexpected job loss. Many children of H-1B families have spent years, and sometimes their entire lives, attending American schools. Abruptly requiring a family to leave could force children to withdraw from school in the middle of an academic year, disrupting their education, friendships, activities, and sense of stability.<br/><br/>&bull; Many H-1B families have made substantial long-term commitments based on living and working in the United States. They have purchased homes, taken on mortgages, established careers, paid taxes, and built communities. Home ownership does not itself create immigration status, but DHS should recognize the serious practical and financial consequences of requiring such families to leave on extremely short notice.<br/><br/>&bull; A sudden departure could force families into distressed financial decisions. Selling a home, addressing a mortgage, ending leases, transferring children between schools, disposing of personal property, and arranging international relocation cannot realistically be accomplished overnight.<br/><br/>&bull; The impact extends to spouses and children who had no role in the employment termination. A policy affecting one worker can effectively destabilize an entire household, including dependent spouses and minor children.<br/><br/>&bull; Many H-1B workers have been pursuing employment-based permanent residence for years. Families may have invested significant time, money, and effort in the immigration process while continuing to contribute to the U.S. economy. Their reliance and long-term ties should be considered before eliminating an established transition period.<br/><br/>&bull; Employers and workers also need practical time to complete a job transition. A prospective employer may need time for interviews, internal approvals, immigration counsel, and preparation and filing of an H-1B petition. Removing the grace period makes it substantially harder for experienced workers to transition to new employment.<br/><br/>&bull; The existing grace period provides an important safety valve for circumstances outside a worker&rsquo;s control. It does not guarantee continued employment or permanent residence. It provides limited time for a worker to seek another lawful solution or depart the United States in an orderly manner.<br/><br/>If DHS believes changes are necessary, I respectfully request that it retain a meaningful transition period rather than eliminate it entirely. At minimum, DHS should consider a hardship-based exception for families with minor children, long-term U.S. residence, home ownership, or pending employment-based immigration cases.<br/><br/>Families who have spent years building their lives in the United States should not be forced to dismantle those lives with almost no time to respond to an unexpected job loss. A reasonable grace period promotes lawful compliance while giving families the opportunity to make responsible, orderly decisions.<br/><br/>I respectfully request that DHS consider the significant effects of this proposal on H-1B families, particularly spouses and children who have established their education, homes, careers, and communities in the United States.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter urges DHS to reconsider and keep the grace period to prevent severe hardships for families.",
-=======
       "reason": "The commenter urges DHS to reconsider and keep the grace period to protect laid-off workers and their families.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26908"
     },
@@ -357,11 +286,7 @@
       "campaignId": null,
       "commentText": "About time we go rid of the 60-day grace period.<br/><br/>Unbelievable! All manner of entities have emerged from the woodwork to post against the removal of the grace period including embassies of foreign governments, immigration firms, advocacy groups, AND the devil itself- Microsoft! The geniuses at Microsoft should realize that everybody knows where they stand - US workers are a huge inconvenience to these bottom feeders. Pretty sure their statements are cleverly worded around legal obligations to &#39;screw American workers&#39; (paraphrasing IG Anthony D&#39;Esposito). Foreign governments are in on the action. Australian, Singapore, Indian, Chinese, Canadian - EVERYBODY out to screw American workers. EVERYBODY needs to get the hell out of here - we can manage our own business. Are we not clear enough? Corrupt corporations like Microsoft, Amazon, JP Morgan, Bank of America, American Express, T-Mobile can also get the hell out. We can rebuild on our own - MAGA!",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly favors getting rid of the 60-day grace period to benefit American workers.",
-=======
       "reason": "The commenter explicitly favors getting rid of the 60-day grace period to benefit US workers.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26910"
     },
@@ -374,11 +299,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose eliminating the discretionary period. This is cruel and barbaric move, people deserve time to uproot their life in an orderly fashion. Throwing families out is not acceptable",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly states they strongly oppose eliminating the grace period to protect families.",
-=======
       "reason": "The commenter explicitly states they strongly oppose eliminating the grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26911"
     },
@@ -391,11 +312,7 @@
       "campaignId": null,
       "commentText": "Please preserve a reasonable grace period following unexpected job loss. Requiring workers to leave immediately gives people no realistic time to wind down a life they may have built in the U.S. for years.<br/><br/>For those with family members or pets, international relocation cannot reasonably happen overnight. People should be given a reasonable amount of time to make necessary arrangements lawfully, responsibly, and with dignity.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues for preserving a reasonable grace period to allow time for winding down affairs and relocating.",
-=======
       "reason": "The commenter argues for preserving the grace period so workers have time to relocate.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26912"
     },
@@ -408,11 +325,7 @@
       "campaignId": null,
       "commentText": "I&rsquo;m writing as someone who has lived in the United States on an H-1B visa for 2.5 years. Here I started my first job, I pay taxes, and I have built their lives here. I&rsquo;m asking DHS not to eliminate the 60-day grace period.<br/><br/>Layoffs happen fast. I&rsquo;ve watched coworkers find out on a morning call that their jobs were gone by lunch. None of them did anything wrong. Their company had a bad quarter. Under the current rule, they at least had a couple of months to interview, get an offer, and have a new employer file a petition. That process takes weeks even when everything goes smoothly. Without the grace period, a person could fall out of status the same day they&rsquo;re let go, before they&rsquo;ve even figured out how to tell their family.<br/><br/>For people like me, that wouldn&rsquo;t just mean losing a paycheck. It could mean breaking a lease, and selling a car within days. It would also mean I am gonna lose the adulthood life I built on my own.<br/><br/>I don&rsquo;t think this helps American workers or employers either. Companies would be more hesitant to hire someone who might have to leave on no notice, and people on visas would be afraid to speak up about problems at work, because losing the job would mean losing everything at once. The grace period isn&rsquo;t a free pass. It&rsquo;s a fair chance to land somewhere.<br/><br/>DHS created this rule because the old system was harsh and unpredictable. That hasn&rsquo;t changed. Please keep the 60-day grace period in place.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly asks DHS not to eliminate the 60-day grace period and argues it is necessary.",
-=======
       "reason": "The commenter explicitly asks DHS not to eliminate the grace period, arguing it harms laid-off workers.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26913"
     },
@@ -438,11 +351,7 @@
       "campaignId": null,
       "commentText": "I oppose the proposed removal of the discretionary 60-day grace period under 8 CFR 214.1(l)(2) and urge DHS to retain it.<br/><br/>I am an international PhD candidate in cancer biology at the University of California, San Diego, conducting research at the Salk Institute. My work on chromatin regulation and cancer immunity has contributed to research published in Cell. I also completed a research internship in the U.S. biotechnology industry in 2026. I comment in my individual capacity, not on behalf of either institution. Although my current F-1 status is not directly affected, H-1B and O-1 status are important future pathways for U.S.-trained scientists.<br/><br/>1. Removing the grace period would damage scientific continuity and workforce mobility.<br/><br/>Biomedical researchers acquire specialized expertise over many years and frequently move among universities, research institutes, hospitals, and biotechnology companies. Changing employers can require securing a new appointment, confirming funding, and preparing an immigration petition. Laboratory closures, grant losses, and layoffs may end legitimate employment without warning.<br/><br/>The existing grace period gives affected workers limited time to seek a new position or other lawful status. It does not itself authorize work. Eliminating it could turn an involuntary employment transition into a status violation the next day. Research programs could lose experienced scientists halfway through a project even when another U.S. employer is willing to hire them. Losses to experiments, collaborations, and research continuity cannot be captured by lost wages alone.<br/><br/>2. The proposal does not adequately justify reversing the 2016 policy.<br/><br/>Section IV.A acknowledges that DHS originally adopted this provision to support high-skilled job mobility and allow American employers to recruit workers without unnecessary departure and readmission. These needs remain. The grace period is limited and discretionary, not permission for indefinite unemployment. DHS should identify evidence that this safeguard itself has materially impaired compliance, rather than treating the existence of a short transition window as a program-integrity problem.<br/><br/>3. DHS&#39;s cost-benefit analysis overlooks major consequences.<br/><br/>Section IV.C cites over 1.9 million filings from FY 2018 through May 2026 potentially requiring a grace-period assessment. This is a screening population, not a measurement of adjudicator time actually spent. DHS does not quantify the resulting administrative savings or weigh them against costs of international travel, renewed visa processing, disrupted research, recruiting replacements, and additional immigration proceedings.<br/><br/>Table 3 reports an annual average of 3,795 beneficiaries with new employer petitions filed within 60 days after a previous employer withdrew an approved petition. These reflect concrete efforts to continue lawful employment. Section V.A assumes employers can often hire equally qualified U.S. workers or file new petitions. In specialized biomedical research, replacing someone with years of experience in a particular experimental system or dataset may take months. This assumption needs evidence and sector-specific analysis.<br/><br/>4. The proposal inadequately addresses families and reliance interests.<br/><br/>Section IV.D acknowledges that workers and families made career, housing, and community decisions in reliance on existing rules. Labeling the protection &quot;discretionary&quot; does not eliminate those real-world interests. DHS also acknowledges that it cannot reliably estimate the number of dependents affected. A spouse may be authorized to work for a separate U.S. employer: sudden loss of the principal worker&#39;s status can disrupt a second employer and household income. Children, leases, and ongoing obligations cannot be relocated overnight.<br/><br/>5. Less disruptive alternatives would address DHS&#39;s stated concerns.<br/><br/>As section IV.C explains, USCIS already may shorten or eliminate a grace period based on individualized circumstances, including fraud, unauthorized work, or national-security concerns. It could also standardize documentation of employment termination, improve reporting, or focus scrutiny on cases presenting compliance risks. Such measures address administrative complexity without requiring otherwise compliant researchers and families to leave immediately after job loss.<br/><br/>I urge DHS to withdraw this proposal, preserve the existing 60-day discretionary grace period, and undertake a fuller assessment of its effects on universities, research institutes, biotechnology companies, and dependents. The United States benefits when scientists it has trained can transition between legitimate positions without avoidable disruption.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes the removal of the grace period and urges DHS to retain it.",
-=======
       "reason": "The commenter explicitly opposes removing the grace period and urges DHS to retain it to protect scientific continuity.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26915"
     },
@@ -455,11 +364,7 @@
       "campaignId": null,
       "commentText": "What people on the ground saying -<br/><br/>This 60 days grace period will have no impact if 240 days immediate start working upon h1b transfer petition filed is not eliminated.  In fact, genuine folks who don&#39;t even know when layoffs coming will be hurt but those who work for cheat staffing/ consulting firms can always know upfront based on their contract terms with end clients and file transfer so those folks will get 8 long months but hard working folks who is not involved in this game will lose everything.<br/><br/>By the way 240 days period was 120 days before and then extended to 240 days. Why not reduce that period to 1 day same time this rule is going live so everyone is equal not just benefiting to consulting/staffing firms only.<br/><br/>what a shame.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter advocates for eliminating or reducing the grace period and related employment extensions.",
-=======
       "reason": "The commenter argues for eliminating the grace period and reducing transfer periods to prevent abuse.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26916"
     },
@@ -485,11 +390,7 @@
       "campaignId": null,
       "commentText": "I think 60 days is already limited for people to take care of their leases, loans, family, friends, and so many important things. It&#39;s just ridiculous that it gives them barely any time to wrap up their life in the US.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that the 60-day grace period is already too short to wrap up affairs.",
-=======
       "reason": "The commenter believes 60 days is already too short to wrap up affairs in the US.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26918"
     },
@@ -502,11 +403,7 @@
       "campaignId": null,
       "commentText": "Public Comment: Extend the H-1B Grace Period to 180 Days<br/><br/>I strongly oppose the proposal to eliminate the 60-day grace period for H-1B visa holders. Instead, DHS should extend it to at least 180 days to reflect realistic hiring timelines and protect skilled professionals who have contributed to the U.S. economy.<br/><br/>Losing a job due to layoffs or restructuring should not put someone&rsquo;s immigration status, career, and family stability at immediate risk. H-1B workers comply with immigration laws, pay taxes, and contribute valuable expertise to American businesses. They deserve a reasonable opportunity to find new employment.<br/><br/>The current 60-day period is already insufficient. Professional hiring often takes several months, and H-1B workers face additional sponsorship and immigration processing requirements. Eliminating this protection would create unnecessary hardship, increase workers&rsquo; dependence on employers, and risk driving experienced talent out of the United States.<br/><br/>Many H-1B workers have built their lives and families here, often while waiting years for permanent residency. An unexpected layoff should not erase years of lawful contributions and personal investment.<br/><br/>I urge DHS to reject this proposal and extend the grace period to 180 days. This would support American businesses, protect families, and create a fairer immigration system without compromising existing compliance requirements.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes eliminating the grace period and advocates extending it to 180 days.",
-=======
       "reason": "The commenter strongly opposes the elimination of the grace period and advocates for extending it to 180 days.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26919"
     },
@@ -519,11 +416,7 @@
       "campaignId": null,
       "commentText": "Re: Proposed Elimination of the 60-Day Grace Period for Certain Nonimmigrant Workers<br/><br/>I respectfully oppose DHS&rsquo;s proposal to eliminate the current up-to-60-day grace period for certain nonimmigrant workers who lose their employment.<br/><br/>I am commenting as someone who has built a career and a life in the United States over many years. I have made significant long-term commitments here, including a home with a mortgage and a car loan. I also have a child who is a U.S. citizen. My family lives here, spends here, pays taxes here, and contributes to the local and U.S. economy.<br/><br/>My concern is what would happen if an otherwise qualified worker lost a job unexpectedly through a layoff or restructuring.<br/><br/>A job loss does not necessarily mean that the worker is no longer qualified or that their skills are no longer needed. In many industries, layoffs can happen because of budget reductions, reorganizations, mergers, or changes in business priorities. Finding another position is one challenge; completing the immigration process required for the new employment is another. These things cannot always be completed within a few days.<br/><br/>The existing 60-day grace period provides a reasonable transition period for exactly this situation. It gives a worker a limited amount of time to find another qualifying job and gives a prospective employer time to complete the necessary immigration process. Without that period, an unexpected layoff could result in the worker having to leave the United States before a legitimate employment transition can be completed.<br/><br/>That would have consequences beyond the worker. In my own situation, an abrupt departure would not simply mean leaving a job. It could mean dealing with a mortgage, other financial obligations, and the disruption of an established family life. More importantly, my child is a U.S. citizen and has a home, school, community, and family life here. A parent&rsquo;s involuntary job loss should not, by itself, force an American family to choose between separation and relocating the household.<br/><br/>There is also a practical consequence for U.S. employers. An employer may be willing to hire an experienced worker who has lost a previous job, but the employer needs reasonable time to complete the required immigration process. Eliminating the grace period could cause employers to lose qualified candidates who otherwise could have continued working and contributing in the United States.<br/><br/>I understand DHS&rsquo;s concern about the administrative burden associated with the current grace period. However, I do not believe eliminating the entire grace period is necessary to address that concern. If the issue is administrative complexity, DHS could consider clearer eligibility requirements, standardized documentation, or simpler procedures for determining and applying the grace period.<br/><br/>The existing provision is also limited. It does not give a worker an unlimited period to remain in the United States without employment. It provides a short window to make a lawful transition after an unexpected employment termination.<br/><br/>For these reasons, I respectfully ask DHS to retain the current 60-day grace period. If DHS believes changes are necessary, I encourage the Department to consider narrower administrative reforms that address the identified burden without eliminating the transition period altogether.<br/><br/>Thank you for considering my comment.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes eliminating the 60-day grace period, citing family stability and transition needs.",
-=======
       "reason": "The commenter explicitly opposes eliminating the 60-day grace period, citing family stability and job transition challenges.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26920"
     },
@@ -536,17 +429,11 @@
       "campaignId": null,
       "commentText": "Eliminating the discretionary 60-day grace period would inflict severe, unnecessary hardship on families and create a direct net loss for the U.S. economy. Forcing an immediate departure makes it logistically impossible to properly wrap up financial affairs, forcing families to abruptly abandon their owned homes, face immediate mortgage distress, and liquidate personal assets at a catastrophic loss because a home cannot be responsibly sold in a matter of days. Furthermore, uprooting children mid-semester inflicts immense academic and emotional trauma by abruptly severing their education. Ultimately, instead of protecting American interests, this rule results in a severe &#39;brain drain&#39; that deprives U.S. businesses of pre-vetted, highly skilled talent and strips local economies of vital tax revenues and consumer spending",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that eliminating the grace period inflicts severe hardship on families and the U.S. economy.",
-=======
       "reason": "Argues removing the grace period causes severe hardships for families and the economy.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26921"
     },
     {
-<<<<<<< HEAD
-=======
       "id": "USCIS-2026-0364-26922",
       "title": "Comment Submitted by Mohamed Noohu",
       "submitterName": "Mohamed Noohu",
@@ -690,7 +577,6 @@
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26932"
     },
     {
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "id": "USCIS-2026-0364-26933",
       "title": "Comment Submitted by Anonymous",
       "submitterName": "Anonymous",
@@ -699,11 +585,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose USCIS‑2026‑0364. For many of us, the United States is more than a workplace. It is our home, our community, and the place where we are raising our families and building our future. Losing a job is already one of the most stressful experiences a person can face. Taking away the 60‑day grace period would turn that difficult moment into a crisis, forcing families to live in fear of losing their legal status, income, and stability overnight.<br/><br/>The current grace period provides a small but critical window to find new employment and remain compliant with immigration laws. It is a compassionate and practical policy that recognizes the realities of today&#39;s job market. Eliminating it would cause unnecessary hardship for hardworking individuals who contribute to the U.S. economy and society every day. I respectfully urge USCIS to keep the 60‑day grace period and reject this proposal.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes the proposal and urges USCIS to keep the 60-day grace period.",
-=======
       "reason": "The commenter explicitly opposes the removal and urges USCIS to keep the 60-day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26933"
     },
@@ -729,11 +611,7 @@
       "campaignId": null,
       "commentText": "I am writing to strongly oppose the proposed rule to eliminate the discretionary 60-day grace period for H-1B and other high-skilled workers.<br/>The U.S. technology sector relies heavily on retaining the world&rsquo;s top engineering and scientific talent. Historically, H-1B professionals have fueled U.S. economic growth, driven innovation, and created jobs for Americans. In a dynamic market where unexpected layoffs and corporate restructuring occur, the 60-day grace period provides a vital buffer. It allows highly skilled, already-vetted professionals to quickly transfer their visas to other U.S. companies that desperately need their expertise, rather than forcing them to take their talents to competitor nations.<br/>Eliminating this grace period would cause severe disruptions for U.S. employers, abruptly uproot law-abiding families, and actively harm our global competitiveness in advanced fields like AI and engineering.<br/>I strongly urge DHS to abandon this proposed rule and preserve the 60-day grace period to keep the U.S. economy strong, stable, and competitive.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that eliminating the grace period harms workers, employers, and the U.S. economy.",
-=======
       "reason": "The commenter explicitly opposes eliminating the grace period and urges DHS to preserve it.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26935"
     },
@@ -746,11 +624,7 @@
       "campaignId": null,
       "commentText": "1. Discourages employers to hire high skilled workers. If the employee who is asked to leave prior company, when can the new company scout for talent, enable the background checks, establish a start date which usually takes 2-4 months. With this rule as soon as employee is out of job, needs to voluntarily depart the country. When will the employer have a chance to employer have a chance to hire and when will an employee have a chance to look for another job?<br/>2. These rules will deter serious talent from coming into US. This nation is built on immigration. After Columbus discovered US, 97% of today&rsquo;s US population have immigrated from different country in last 525 years. Recently, most of the highly successful companies like Google, Palantir, fortinet, etc. have been founded by immigrants. These kind of rules would have them rethink to come to US, rather will go setup the same company in US immigration friendly countries like Canada, Australia, etc.<br/>3. Hiring at prospective employers - it is impossible for even the most advanced HR systems to scout and hire the employees the very next day. It will be a nightmare scenario.<br/>4. Guest worker perspective - once an employee is let go, their family is on the street the very next day since the legal status is no longer valid. The school attending kids will not be able say proper goodbyes to the friends they developed over the years. The kids will not be able to see their friends from the next day. This takes a toll on their mental health and might slip into depression and other related mental issues. The parents develop the same mental issues, health related, procedure related, having developed the relationship over the years and next day leaving everything behind (both tangibles and intangibles). The home country will seem very new and the hardships they face due to all this and will not be able to describe the hardships they face in this entire process.<br/>5. This rule adds to the chaos in the system. Already the system is legal immigration system is backlogged by a lot. Employees who are waiting in the line have not been able to get administrative approvals for years. This definitely adds chaos and administrative burden to the immigrant/immigration funded USCIS.<br/>6. In spite of all the above, the employers will get weaponized to intimidate the current employees. There will be no safeguards and no labor rules will deter the employers&rsquo; managers since they are aware that the employees will be out of status the very next day and chances of having a legal trial of the intimidative actions/other behaviors shown against the employees is almost next to zero.<br/>7. In the new age of AI, companies are trying to cut costs to implement and build AI. To achieve that, worker reductions will be part of companies&rsquo; cost cutting measures. If an employee&rsquo;s position is slashed in those reductions, the employee and their family is out of legal status due to NO fault on their own and family has a lot to suffer due to company management&rsquo;s sudden decision. <br/><br/>Effectively, due to all the above reasons, rather than weighing on reducing or eliminating the existing 60-day grace period, it would be effective from employees and employer&rsquo;s best interests, to increase the grace period to 120 days or higher.<br/>",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the grace period harms hiring, deters talent, and causes severe hardship to workers and their families.",
-=======
       "reason": "The commenter argues the rule harms hiring, deters talent, and causes extreme hardship for workers and their families.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26936"
     },
@@ -763,11 +637,7 @@
       "campaignId": null,
       "commentText": "Comment in Opposition to the Proposed Rule - Eliminating the Discretionary 60-Day Grace Period (Docket ID: USCIS-2026-0364-0001)<br/><br/>Statement of Opposition:<br/>I am writing to formally oppose the proposed rule to eliminate the discretionary 60-day grace period for high-skilled nonimmigrant workers (including H-1B, L-1, O-1, TN, and E visa holders). This proposal undermines the economic resilience and competitive advantage of the United States.<br/>1. High-Skilled Talent is a Strategic Asset:<br/>Visas such as the H-1B are specifically allocated to high-skilled workers who drive innovation, research, and economic growth. An individual losing their job due to a layoff does not diminish their professional value or skill set. Talent remains a scarce resource, and the knowledge possessed by these workers is precisely what fuels American competitiveness.<br/>2. The Reality of Corporate Layoffs:<br/>Layoffs are frequently the result of company-wide financial restructuring, budget realignments, or the completion of specific projects&mdash;not a reflection of an employee&#39;s capability or worth. Companies facing budgetary constraints may make difficult decisions to eliminate high-salaried positions. Forcing highly skilled individuals to depart the country immediately under these circumstances is a severe overreaction that penalizes both the worker and the broader innovation ecosystem.<br/>3. Economic and Administrative Harm to U.S. Employers:<br/>The loss of a 60-day grace period forces skilled workers to step back to their home countries immediately upon job loss. If a U.S. employer wishes to rehire or bring that worker back later, it requires an extremely long, tedious, and costly immigration process. This creates unnecessary bureaucratic hurdles for U.S. employers who invest significantly in global recruitment and retention.<br/>4. Welfare of the United States:<br/>This grace period was implemented to allow skilled professionals a practical timeframe to find new sponsorship. Eliminating it discourages global talent from viewing the U.S. as a stable career destination. Retaining these skilled individuals within the U.S. labor market directly serves the welfare and economic interests of the United States.<br/>Conclusion:<br/>For the reasons outlined above, I urge DHS and USCIS to withdraw this proposed rule and maintain the up to 60-day grace period.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes the elimination of the 60-day grace period.",
-=======
       "reason": "The commenter explicitly opposes the proposed rule to eliminate the 60-day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26937"
     },
@@ -793,11 +663,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose the proposed elimination of the 60-day grace period for H-1B workers following the termination of employment.<br/><br/>The 60-day grace period is a reasonable and necessary safeguard for highly skilled foreign professionals who have legally worked, paid taxes, and contributed to the United States economy. Eliminating this protection would create unnecessary hardship for workers and their families while undermining the competitiveness of American businesses.<br/><br/>First, job loss is often beyond an employee&rsquo;s control. Layoffs, corporate restructuring, and economic downturns can affect even the most qualified and hardworking employees. Requiring H-1B workers to immediately leave the country or risk losing their lawful status would unfairly punish individuals for circumstances outside their control.<br/><br/>Second, the existing 60-day period is already extremely limited. Finding a new employer, completing interviews, securing an offer, obtaining a Labor Condition Application, and preparing an H-1B petition can easily take several weeks or months. Eliminating the grace period would make it practically impossible for many qualified workers to transition between employers, even when American companies are willing to hire them.<br/><br/>Third, this proposal would harm American employers and the U.S. economy. Companies invest significant resources in recruiting and retaining specialized talent. Forcing experienced professionals to leave the country after unexpected job losses would create unnecessary disruptions, reduce labor market flexibility, and potentially drive valuable talent and innovation to competing countries.<br/><br/>Fourth, eliminating the grace period would create serious hardship for families. Many H-1B workers have spouses, children, homes, and established lives in the United States. Sudden job loss should not immediately threaten an entire family&rsquo;s ability to remain in the country, especially when workers are actively seeking new employment and complying with immigration laws.<br/><br/>The existing 60-day grace period does not provide unlimited employment authorization or permanent immigration benefits. It simply offers a short, reasonable transition period that allows workers to pursue lawful alternatives while maintaining compliance with immigration requirements.<br/><br/>I respectfully urge the Department of Homeland Security to withdraw this proposal and preserve the existing 60-day grace period. Maintaining this protection would support fairness, economic stability, and America&rsquo;s ability to attract and retain highly skilled professionals.<br/><br/>Thank you for considering my comment.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes the proposed elimination, arguing it causes undue hardship and harms the economy.",
-=======
       "reason": "The commenter explicitly opposes eliminating the 60-day grace period and argues it protects workers and the economy.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26939"
     },
@@ -810,11 +676,7 @@
       "campaignId": null,
       "commentText": "I oppose the proposal to eliminate the 60-day grace period for H-1B workers, because the proposal would not merely shorten a job search. It would destroy the only vetting window a laid-off worker has, and in doing so it would create exactly the fraud and exploitation the H-1B program is supposed to prevent.<br/><br/>Sixty days is not idle time. It is due-diligence time. A worker who has just been laid off must verify that a prospective sponsor is real: that the job exists, that the Labor Condition Application reflects the actual worksite and wage, that the employer has a genuine need and a record of lawful filings, and that the terms offered comply with the law. That checking takes weeks even for an experienced worker with counsel. Sixty days is already tight. Zero days makes it impossible.<br/><br/>Desperation is the fraudster&#39;s business model, and this proposal would hand fraudsters their ideal customer. USCIS has long warned about H-1B fraud: shell sponsors filing petitions for jobs that do not exist, intermediaries that &quot;bench&quot; workers without pay, and sponsors that illegally charge workers fees for their own petitions. A worker who must accept the first sponsor promising an immediate filing &mdash; or lose lawful status that same day &mdash; cannot walk away from a suspicious offer, cannot wait for a second opinion, and cannot check whether the sponsor has been sanctioned before. The rational choice under a zero-day rule is the very choice the law should discourage: sign first, ask questions later.<br/><br/>The harm then compounds. A worker trapped by a sham sponsor may pay unlawful fees, accept below-market wages, or work in a job that does not match the petition. When the petition is denied or revoked, the worker loses status anyway, now burdened with debt and a damaged immigration record. Fear of contact with authorities makes such workers less likely to report the fraud, so the scheme survives to recruit the next laid-off worker. Legitimate employers are harmed too: they must compete against sham sponsors filing low-wage petitions, and USCIS adjudicators must spend scarce resources sorting suspect transfers from legitimate ones, delaying lawful petitions across the board.<br/><br/>Retaining the grace period costs the agency nothing and protects the integrity of the program. It lets a worker reject an exploitative offer without forfeiting lawful status, and it keeps enforcement focused where it belongs: on fraudulent petitioners, not on workers the rule itself pushed toward them. If DHS is concerned about abuse of the grace period, it should target fraudulent sponsors directly. Eliminating the window does the opposite &mdash; it manufactures the desperation on which fraud depends.<br/><br/>For that reason, DHS should withdraw this proposal and retain the 60-day grace period.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that eliminating the 60-day grace period creates desperation and enables H-1B fraud.",
-=======
       "reason": "The commenter explicitly opposes eliminating the 60-day grace period, arguing it prevents workers from properly vetting employers.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26940"
     },
@@ -827,11 +689,7 @@
       "campaignId": null,
       "commentText": "I think this is not fair because the people rent apartments or houses with contracts that request at least 30 days move out notice to finish the contract, the other topic is that there wouldn&rsquo;t have time to move out your belongings.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues the rule is unfair because it doesn't leave enough time to end housing leases and move belongings.",
-=======
       "reason": "The commenter argues the rule is unfair because it lacks time to move out or break housing contracts.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26941"
     },
@@ -857,11 +715,7 @@
       "campaignId": null,
       "commentText": "I respectfully oppose DHS&rsquo;s proposal to eliminate the 60‑day grace period for H‑1B and other nonimmigrant workers because it is impractical and harmful to individuals who are legally present in the United States. Without this grace period, workers would lose status immediately after job loss, leaving no realistic time to arrange for departure. This change would also destabilize families, forcing spouses and children to abruptly halt schooling, employment, and daily life. The current grace period has functioned effectively for years, supporting compliance, stability, and U.S. competitiveness. For these reasons, I urge DHS to retain the existing regulation and reject the proposed rule.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes eliminating the grace period and asks DHS to retain it.",
-=======
       "reason": "The commenter explicitly opposes eliminating the 60-day grace period and urges DHS to retain it.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26943"
     },
@@ -887,11 +741,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose the proposed elimination of the 60-day grace period for H-1B and other employment-based visa holders. I urge the Department of Homeland Security to withdraw this proposal, preserve the existing grace period, and continue supporting the H-1B visa program.<br/><br/>The H-1B program plays a critical role in maintaining America&#39;s global competitiveness, particularly in technology, engineering, healthcare, scientific research, and other highly skilled industries. Skilled foreign professionals contribute to American innovation, support U.S. businesses, pay taxes, and strengthen the economy. Many have built their careers, families, and communities in the United States.<br/><br/>The existing 60-day grace period is an essential protection for these workers. Job losses frequently occur for reasons beyond an employee&#39;s control, including layoffs, restructuring, and economic downturns. Eliminating the grace period would force legally employed professionals and their families into an extremely difficult situation, potentially requiring them to leave the country immediately after losing employment.<br/><br/>Finding a new job, completing interviews, negotiating offers, and filing immigration paperwork takes time. Even 60 days can be insufficient in today&#39;s competitive job market. Removing this protection entirely would create unnecessary hardship for workers and their families while also making it more difficult for American employers to recruit and retain experienced talent.<br/><br/>Furthermore, eliminating the grace period could discourage talented professionals from choosing the United States as a destination for their careers. America benefits from attracting and retaining highly skilled individuals, and immigration policies should reinforce that competitive advantage rather than undermine it.<br/><br/>I recognize the importance of immigration compliance and program integrity. However, protecting the grace period is fully compatible with responsible immigration oversight. Workers should not face immediate immigration consequences simply because they unexpectedly lose their jobs.<br/><br/>I respectfully urge DHS and USCIS to:<br/><br/>Retain the existing 60-day grace period under 8 CFR 214.1(l)(2).<br/><br/>Preserve and support the H-1B visa program as an important contributor to American economic growth and innovation.<br/><br/>Consider the economic, professional, and humanitarian consequences of forcing skilled workers and their families to leave the country following an unexpected job loss.<br/><br/>The United States should remain a country that attracts global talent, rewards professional contributions, and treats lawful immigrant workers fairly. Eliminating the 60-day grace period would move us in the wrong direction.<br/><br/>Thank you for considering my comment.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter strongly opposes the elimination of the 60-day grace period, arguing it harms workers and families.",
-=======
       "reason": "The commenter explicitly opposes eliminating the grace period and argues it provides essential protection for workers.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26945"
     },
@@ -904,11 +754,7 @@
       "campaignId": null,
       "commentText": "Get rid of the discretionary 60-day grace period NOW.<br/><br/>All those who oppose removing this grace period (mostly Telugus) want a medal for:<br/>1) paying taxes - apparently they are doing us a favor<br/>2) reproducing - apparently they are doing us a favor<br/>3) buying a house - apparently they are doing us a favor<br/>Let&#39;s give them a medal and send them and their families packing.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly urges to get rid of the 60-day grace period immediately.",
-=======
       "reason": "The commenter explicitly demands to eliminate the 60-day grace period immediately.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26946"
     },
@@ -921,11 +767,7 @@
       "campaignId": null,
       "commentText": "I support eliminating the 60-day grace period.<br/>Apparently many here think that the US cannot do without their &#39;talent&#39;. This is an insult to us. Remove them from this country and tell them not to worry about us. We will take care of our country and they can go take care of their country - their supposed talent is needed more in their backwater.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly states support for eliminating the 60-day grace period.",
-=======
       "reason": "The commenter explicitly states support for eliminating the grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26947"
     },
@@ -938,11 +780,7 @@
       "campaignId": null,
       "commentText": "Eliminating the discretionary 60-day grace period for nonimmigrant workers&mdash;such as H-1B, L-1, and TN visa holders&mdash;would strip a critical shock absorber from the U.S. labor market, actively damaging corporate talent pipelines, global competitiveness, and the administrative immigration system. Retaining this transition window is essential for both economic stability and practical governance.<br/>​Preserving the Highly Skilled Labor Pool<br/>When tech companies, research institutions, or hospitals execute layoffs, the grace period keeps vetted, experienced talent within the U.S. market. Forcing these workers to leave the country the moment their employment terminates effectively transfers top-tier engineers, scientists, and medical professionals to competing innovation hubs in Canada, Europe, or Asia.<br/>​Reducing Corporate Recruitment Costs<br/>Hiring a foreign national from abroad requires months of processing and thousands of dollars in legal and filing fees. The 60-day window allows other U.S. employers to rapidly absorb laid-off workers who are already residing in the country, cleared by federal background checks, and available to start immediately without the friction of international relocation.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that retaining the grace period is essential to prevent talent loss and economic damage.",
-=======
       "reason": "The commenter argues that retaining the grace period is essential to prevent harm to the labor market and workers.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26948"
     },
@@ -955,11 +793,7 @@
       "campaignId": null,
       "commentText": "I oppose this change to remove the 60 day grace period. It is unfair to those who have obtained their work visas legally. If this goes through, the consequences will be much greater than you expect, directly impacting the US Economy (these folks contribute to the economy more than you realize).",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes the removal of the 60-day grace period.",
-=======
       "reason": "The commenter explicitly opposes removing the grace period and argues it harms workers and the economy.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26949"
     },
@@ -972,11 +806,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose this proposed rule. Job termination usually is involuntary and not caused by worker performance or skills, but instead driven by company operation strategies. This rule would largely harm lawful skilled and specialized workers.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues the rule harms skilled workers facing involuntary job loss.",
-=======
       "reason": "The commenter states they strongly oppose the rule because it harms skilled workers facing involuntary termination.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26950"
     },
@@ -989,11 +819,7 @@
       "campaignId": null,
       "commentText": "Yes, eliminate the 60 day grace period.<br/>After reading some of the comments here, any self-respecting individual would leave on their own accord but these are shameless people so they must be removed. We can keep their US born children here.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly agrees with eliminating the 60-day grace period.",
-=======
       "reason": "The commenter explicitly states they want to eliminate the 60-day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26951"
     },
@@ -1045,11 +871,7 @@
       "campaignId": null,
       "commentText": "Re: DHS Docket No. USCIS-2026-0364, RIN 1615-AD22<br/><br/>I oppose eliminating the discretionary 60-day grace period and ask DHS to withdraw this proposal.<br/><br/>The proposal falls hardest not on the largest employers, but on small businesses and startups. A large company can absorb a sudden departure, shift work to another office, or draw on a legal team to file an urgent petition. A small employer often cannot. Losing a single sponsored engineer, designer, or operations lead can stall a product launch, break a client commitment, or leave a team of ten without a critical skill it took months to hire for.<br/><br/>That asymmetry will change hiring decisions before any layoff occurs. A startup weighing whether to sponsor a talented worker must now price in the risk that a funding delay, a lost contract, or a reorganization ends that worker&#39;s status overnight, with no window to transfer to another employer. Many small employers will simply decline to sponsor at all, narrowing opportunity for workers and shrinking the talent pool for the very firms that create a disproportionate share of new jobs.<br/><br/>A grace period does not excuse unlawful presence or guarantee a new job. It gives a worker already lawfully present a brief, realistic chance to find another sponsor, and it gives a small employer a fair chance to retain talent through a temporary disruption. Removing it hands an advantage to the employers least in need of one and weakens the small businesses this country depends on for innovation and local employment. DHS should withdraw the proposal.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes eliminating the 60-day grace period, arguing it harms small businesses and workers.",
-=======
       "reason": "The commenter explicitly opposes eliminating the grace period, arguing it harms small businesses and startups.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26955"
     },
@@ -1062,11 +884,7 @@
       "campaignId": null,
       "commentText": "Re: DHS Docket No. USCIS-2026-0364, RIN 1615-AD22<br/><br/>I oppose eliminating the discretionary 60-day grace period and ask DHS to withdraw this proposal.<br/><br/>Hospitals, clinics, universities, and research laboratories depend on international physicians, scientists, and trainees whose work cannot be replaced overnight. Recruiting and credentialing a physician, clearing a researcher for a funded project, or training a postdoctoral fellow takes months, not days. If a grant ends, a department restructures, or a clinical placement changes, the affected worker&#39;s status would now end almost immediately, even though patients, students, and research teams still need that person.<br/><br/>The consequences extend beyond one job. A disrupted research project can lose months of data and funding. A teaching or clinical schedule built around a specialist can collapse mid-semester or mid-treatment. Communities already facing shortages of physicians and specialists would feel the loss most sharply, because the replacement pipeline for those roles is long and highly regulated.<br/><br/>None of this requires an open-ended stay. The existing grace period simply allows a qualified worker to seek another lawful position in the same field, preserving continuity of care and research that the public relies on. Eliminating it would not strengthen the immigration system; it would interrupt care, teaching, and scientific work for no corresponding benefit. DHS should withdraw the proposal and preserve a transition period for workers in these essential roles.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes eliminating the 60-day grace period, citing negative impacts on hospitals and research.",
-=======
       "reason": "The commenter explicitly opposes eliminating the 60-day grace period and asks DHS to withdraw the proposal.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26956"
     },
@@ -1079,11 +897,7 @@
       "campaignId": null,
       "commentText": "Re: DHS Docket No. USCIS-2026-0364, RIN 1615-AD22<br/><br/>I oppose eliminating the discretionary 60-day grace period and ask DHS to withdraw this proposal.<br/><br/>The proposal is presented as a simplification, but in practice it will create more work for the government, not less. Today, a worker who loses a job can often file a change-of-employer or change-of-status petition from within the United States, where USCIS can adjudicate it on the existing record. Under this proposal, many of those workers would instead be forced to depart, seek a new visa at a consulate abroad, undergo interviews and checks that duplicate work already done, and then seek re-admission &mdash; all for a position that could have been adjudicated domestically.<br/><br/>That shift increases consular workloads, lengthens interview wait times for other applicants, and adds adjudication steps for USCIS and the Department of State, while producing no additional vetting benefit for workers who have already been screened and lawfully admitted. Employers would also face longer vacancies and repeated filing costs, and workers would bear travel expenses and separation from their homes for a process that serves no security purpose.<br/><br/>A system that pushes lawful, vetted workers out of the country only to process them back in is inefficient by its own terms. The grace period avoids that waste by allowing a timely domestic filing. DHS should withdraw the proposal rather than replace a workable process with a more burdensome one.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes eliminating the grace period, arguing it creates inefficiencies and burdens.",
-=======
       "reason": "The commenter explicitly opposes eliminating the 60-day grace period and asks DHS to withdraw the proposal.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26957"
     },
@@ -1109,11 +923,7 @@
       "campaignId": null,
       "commentText": "I oppose the proposal to repeal 8 CFR 214.1(l)(2) and request that DHS retain the discretionary grace period of up to 60 days for the following reasons:<br/>1. A short grace period is compatible with employment-based status.<br/><br/>In Sections IV.A&ndash;B, DHS argues that employment-based classifications are tied to qualifying work and that any period following job loss is inconsistent with their statutory purpose. That does not establish that DHS cannot allow a brief transition between jobs. INA section 214(a) authorizes DHS to regulate the time and conditions of nonimmigrant admission. The existing provision lasts at most 60 days or the remaining authorized validity period, whichever is shorter; permits only one grace period per authorized validity period; and allows DHS to shorten or eliminate it. The principal worker is generally not authorized to work during this period.<br/><br/>This is not an indefinite right to remain or permission to work without sponsorship. It is a limited opportunity to arrange a lawful transition. DHS should explain why the existing limits and safeguards are insufficient.<br/><br/>2. Administrative savings are not adequately quantified.<br/><br/>Section IV.C cites over 1.9 million petitions and applications from fiscal year 2018 through May 20, 2026, for which the grace period could potentially have applied. Potential applicability does not mean that each case required substantial discretionary review. DHS does not quantify adjudicator hours spent, the frequency of contested determinations, or anticipated savings.<br/><br/>DHS separately estimates about 3,795 workers annually with new Form I-129 petitions filed during a possible grace period, based on a proxy that DHS acknowledges has data limitations. It should distinguish screening from substantive adjudication and compare actual savings with possible additional consular processing, reentry procedures, and immigration proceedings.<br/><br/>3. Immediate loss of status could disrupt U.S. research.<br/><br/>Research appointments may end unexpectedly because of grant changes, institutional reorganizations, or funding decisions. Even when a scientist quickly finds a new job, a prospective employer needs time to complete recruitment, obtain approvals, and prepare an immigration filing. The grace period allows a limited window for those administrative steps.<br/><br/>Without it, a researcher could face immediate departure despite an imminent qualifying offer, interrupting experiments, collaboration, and the transfer of specialized expertise among U.S. universities and businesses. Departure does not accelerate hiring; it may add consular processing and travel delays.<br/><br/>4. Effects on small employers require closer analysis.<br/><br/>DHS&#39;s Table 5 identifies 1,852 small entities among 2,886 employers that filed relevant petitions during a possible grace period (64.17%). The proposal assumes employers can hire equally qualified domestic replacements or recruit workers from abroad. That assumption is uncertain for specialized research positions. DHS should evaluate costs from unfilled vacancies, project interruptions, and additional hiring procedures.<br/><br/>5. Families and established reliance interests matter.<br/><br/>In Section IV.D, DHS acknowledges that workers, employers, and dependents may have planned around the existing policy. Sudden job loss can disrupt a spouse&#39;s employment, children&#39;s schooling, housing, and medical care. Immediate departure also makes it difficult to resolve leases and travel arrangements. DHS states that it cannot reliably estimate how many dependents use the grace period. These impacts warrant fuller analysis, not summary dismissal.<br/><br/>6. Less disruptive alternatives exist.<br/><br/>DHS could standardize evidence of the last employment date, require a simple filing checklist, and retain discretion to shorten or eliminate grace periods for fraud, unauthorized employment, or other adverse factors. Those approaches address administrative concerns while preserving lawful mobility. DHS should evaluate their costs before choosing repeal.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes the proposal and asks DHS to retain the discretionary grace period.",
-=======
       "reason": "The commenter explicitly opposes the repeal and requests that DHS retain the 60-day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26959"
     },
@@ -1139,11 +949,7 @@
       "campaignId": null,
       "commentText": "As a postdoctoral researcher at a U.S. university, I am particularly concerned about the consequences of eliminating the 60-day grace period for international scientists and researchers. Research positions are often dependent on external funding, federal grants, and fixed-term appointments. Changes in funding availability, grant renewals, or institutional priorities can lead to unexpected employment termination, even when researchers have demonstrated strong scientific performance and made valuable contributions to their institutions.<br/><br/>The existing 60-day grace period provides a reasonable and necessary window for researchers to secure new employment and complete the administrative procedures required for a lawful transition. Academic hiring and immigration sponsorship can involve multiple institutional offices, funding approvals, and immigration documentation, processes that cannot always be completed immediately. Eliminating this grace period would create unnecessary uncertainty and could force highly trained researchers to interrupt their work or leave the country, even when another U.S. institution or employer is willing to hire them.<br/><br/>Such disruptions would affect not only individual researchers but also the broader American scientific enterprise. Research projects frequently require years of specialized training, continuity of expertise, and collaboration among scientists. The unexpected departure of a researcher could delay ongoing experiments, interrupt federally funded projects, and result in the loss of valuable institutional knowledge.<br/><br/>The United States invests substantial resources in training and supporting international scientists through its universities and research institutions. Policies that make it more difficult for these individuals to transition between positions risk undermining that investment and weakening the country&#39;s ability to retain scientific talent.<br/><br/>I strongly urge DHS to retain the existing 60-day grace period, which provides a reasonable balance between maintaining immigration compliance and allowing highly skilled workers to navigate unexpected employment transitions without unnecessarily disrupting American research and innovation.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that eliminating the grace period creates uncertainty and harms researchers and U.S. science.",
-=======
       "reason": "The commenter argues that eliminating the grace period harms researchers and disrupts scientific work.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26961"
     },
@@ -1156,11 +962,7 @@
       "campaignId": null,
       "commentText": "Thank you for the opportunity to comment on this proposed rule. I respectfully ask the Department of Homeland Security to consider keeping the 60-day grace period for H-1B workers and their families, given its value to workers, employers, and the communities they live in.<br/><br/>The grace period keeps talent in the U.S. economy. H-1B professionals are often employed in fields where U.S. employers report persistent shortages, such as engineering, healthcare, research, and technology. When a job ends through no fault of the worker, the 60-day window gives them a reasonable chance to find another sponsoring employer and keep contributing. Without it, skilled people and the investment employers have made in training them may be lost to other countries, which would not serve American competitiveness.<br/><br/>Its impact reaches well beyond the individual worker. H-1B families buy and rent homes, pay property and income taxes, and support local businesses such as restaurants, childcare providers, grocery stores, and service companies. Many are homeowners with mortgage obligations. A sudden requirement to leave could force distressed home sales, lease breaks, and abrupt drops in local spending. These effects would fall on small businesses and neighborhoods as well as on the families themselves.<br/><br/>It protects families from sudden upheaval. A job loss is already one of the most stressful events a household can face. For H-1B families, it can mean children leaving school in the middle of a year, spouses losing their own work authorization, and the end of long-standing community ties within days. The 60-day period gives families a humane, orderly window to plan, whether that means finding a new role or preparing to depart responsibly.<br/><br/>The timing is especially sensitive. Many companies are currently restructuring, and there is real uncertainty about the direction of the technology sector, including questions about the pace of AI investment. In this environment, layoffs often reflect broad business decisions rather than individual performance. Removing the grace period now would penalize skilled workers for market conditions outside their control, at the moment flexibility matters most.<br/><br/>I have a personal example: My family has experienced this firsthand. I was laid off in 2023 and again in 2025 due to company restructuring. During both periods we continued to meet our mortgage and household obligations in Chicago, IL. The ability to remain in the country while searching for work was critical to our family&#39;s stability and to our continued contribution to our community.<br/><br/>If the Department has concerns that the current grace period is being misused, I would respectfully suggest considering targeted alternatives, such as clearer reporting or documentation requirements, instead of eliminating a protection that the vast majority of workers rely on in good faith.<br/><br/>I appreciate the Department&#39;s careful consideration of these impacts and the opportunity to share this perspective.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly asks DHS to keep the 60-day grace period for H-1B workers.",
-=======
       "reason": "The commenter asks the DHS to keep the 60-day grace period for H-1B workers and their families.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26962"
     },
@@ -1173,11 +975,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose eliminating the 60-day H-1B grace period.<br/><br/>Unexpected layoffs can happen to anyone due to company restructuring, budget cuts, or economic conditions. Finding a new employer, completing interviews, securing H-1B sponsorship, and filing a transfer petition takes time.<br/><br/>Removing the 60-day grace period would create enormous stress and uncertainty for thousands of skilled workers and their families. It would also leave people with very little time to make important life decisions, including selling their homes, cars, and other personal belongings, arranging housing, managing financial commitments, and preparing their families for a possible departure from the United States.<br/><br/>Many H-1B workers have spent years contributing to the U.S. economy, paying taxes, raising families, and building their lives here. Losing a job unexpectedly should not mean losing the opportunity to make a reasonable and orderly transition.<br/><br/>I respectfully urge USCIS to preserve the existing 60-day grace period. It is an essential protection that provides fairness, stability, and dignity during an already difficult situation.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the grace period causes hardship and urges USCIS to preserve it.",
-=======
       "reason": "The commenter explicitly opposes eliminating the grace period and urges USCIS to preserve it.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26963"
     },
@@ -1190,11 +988,7 @@
       "campaignId": null,
       "commentText": "I support the proposed elimination of the 60-day grace period. Employment-based immigration status should remain tied to valid employment. This change would help maintain clearer immigration rules and encourage compliance with visa requirements. I encourage DHS to provide clear guidance for affected workers and employers.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly states support for eliminating the grace period to keep status tied to employment.",
-=======
       "reason": "The commenter explicitly states support for eliminating the 60-day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26850"
     },
@@ -1207,11 +1001,7 @@
       "campaignId": null,
       "commentText": "As a lawfully present nonimmigrant worker on an H-1B visa, I understand and respect the United States immigration laws and regulations. The 60-day grace period serves as a critical safeguard during unexpected employment disruptions, such as layoffs, allowing individuals and families to comply with immigration requirements in an orderly and responsible manner. Eliminating this grace period would create significant hardships for H-1B workers who suddenly lose their jobs through no fault of their own. Many individuals have important commitments that cannot be concluded immediately, including terminating rental agreements or leases, selling homes or vehicles, arranging the shipment or disposition of personal belongings, settling financial obligations, and managing their children&#39;s educational transitions. These practical and often time-sensitive responsibilities require a reasonable period to address before departing the United States or making alternative immigration arrangements.The 60-day grace period does not undermine immigration enforcement. Rather, it provides a lawful and humane mechanism for nonimmigrants to maintain compliance while navigating unforeseen circumstances. Without such a period, families could be forced into rushed decisions, face financial losses, and experience unnecessary disruption, particularly when children are involved. I am not seeking to challenge the government&#39;s authority to establish immigration policies. Instead, I respectfully urge DHS to retain the 60-day grace period so that affected H-1B workers can responsibly conclude their commitments, make informed decisions, and, if necessary, depart the United States in an orderly and compliant manner.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "Argues removing the grace period creates severe hardships for workers and families during job disruptions.",
-=======
       "reason": "The commenter argues that removing the grace period causes severe hardships for workers and families.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26851"
     },
@@ -1224,11 +1014,7 @@
       "campaignId": null,
       "commentText": "I understand the country takea decision to protect and infavour of thier people, however this wont just impact the individual , these are major life decisions considering the chikdern studies and financial hardship.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the grace period causes financial hardship and disrupts children's studies.",
-=======
       "reason": "The commenter argues that removing the grace period causes financial hardship and impacts children's lives.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26852"
     },
@@ -1241,11 +1027,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose the proposed removal of the discretionary grace period under 8 CFR 214.1(l)(2). I ask DHS to retain the current up-to-60-day framework.<br/><br/>First, eliminating the grace period would impose disproportionate hardship on workers and their families. A job can end unexpectedly and for reasons outside a worker&rsquo;s control. The current, limited period gives affected people time to seek another employer, explore a change of status, or make orderly arrangements to leave the United States. Removing it would turn a sudden job loss into an immediate immigration crisis for both workers and their dependents. DHS should explain why this hardship is justified when the existing period is time-limited and already subject to DHS discretion. <br/>H1B holders have been legally paying taxes and not benefiting any welfare programs, they are good hard working people. For example, under no grace period rule, and they have to leave the country immediately upon layoff, does DHS support their kids to disenroll from school in the same day? Does DHS support house sale, car sale or rental agreement cancelation? Does DHS support their packing and everything related? If the answer is no, then DHS has to justify why this impact is acceptable to legal immigrants who have been contributing to US&#39;s economy.<br/><br/>Second, the administrative-burden rationale does not justify eliminating the grace period altogether. The proposal cites more than 1.9 million petitions or applications for which USCIS potentially had to assess whether the grace period applied between fiscal year 2018 and May 20, 2026. That figure is not the number of people who actually used the grace period. Before removing a protection with substantial consequences for families, DHS should provide clearer evidence of the burden attributable to the rule, weigh that burden against the costs imposed on affected people, and consider less disruptive ways to simplify its administration. Instead of citing a wrong number such as 1.9M, DHS should fully evaluate the impact and determine the true number.<br/><br/>Please retain the discretionary grace period rather than eliminate it.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes the removal of the grace period, citing severe hardship for families and workers.",
-=======
       "reason": "The commenter explicitly opposes removing the grace period and argues it causes severe hardship for workers and families.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26853"
     },
@@ -1258,11 +1040,7 @@
       "campaignId": null,
       "commentText": "Eliminating the Discretionary 60-Day Grace Period will put most of the H1B workers like me on risk with their lives. H1B workers have to leave this country immediately leaving their homes, hard earned properties, beloved friends, kids of H1B workers in schools have to move out of country along with their parents, livelihood of H1B workers who have contributed to the US economy by paying taxes all these years is suddenly disrupted. Many H1B workers owning homes and paying their mortgages cannot pay anymore resulting in foreclosures of their homes adding burden to US economy.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "Argues eliminating the grace period puts workers at risk and causes severe economic and personal disruption.",
-=======
       "reason": "The commenter argues that removing the grace period severely harms H-1B workers and causes economic disruption.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26854"
     },
@@ -1275,11 +1053,7 @@
       "campaignId": null,
       "commentText": "I am writing to strongly oppose the proposed elimination of the discretionary 60-day grace period for H-1B and high-skilled nonimmigrant workers. Established as a practical economic buffer, removing this window creates immediate unlawful status upon job termination, inflicting severe harm on families, local businesses, and the U.S. economy.<br/> Impact on Families: Sudden job loss through layoffs forces families to immediately break housing leases, disrupt children&rsquo;s education mid-term, and liquidate assets under extreme distress. Spouses on derivative visas (such as H-4 EADs) instantly lose work authorization, stripping households of secondary income. Crucially, removing the grace period leaves workers vulnerable to employer abuse, as the fear of instant deportation deters them from reporting wage theft or unsafe working conditions.<br/> Harm to Local Businesses: The 60-day window allows U.S. companies to efficiently hire pre-vetted, highly skilled talent already residing in the country. Eliminating it forces employers to navigate lengthy, expensive international consular processing to fill critical talent gaps. This delays innovation, stalls high-tech projects, and pressures multinational firms to relocate jobs and capital to foreign affiliates in Canada or Europe.<br/> Macroeconomic Loss: High-skilled visa holders contribute significantly to local tax bases, housing markets, and consumer spending. Abrupt forced departures lead to defaulted loans, broken real estate contracts, and lost local tax revenue. Furthermore, forcing thousands of workers to depart immediately shifts routine administrative transitions into already backlogged U.S. embassies, consulates, and immigration courts, wasting federal resources.<br/>USCIS already holds authority to deny grace periods for fraud or security concerns. A blanket elimination inflicts massive collateral damage without economic benefit. I urge DHS and USCIS to withdraw this proposed rule entirely.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter strongly opposes removing the grace period, citing severe harm to families, workers, and businesses.",
-=======
       "reason": "The commenter explicitly opposes eliminating the 60-day grace period, citing harm to families, workers, and businesses.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26855"
     },
@@ -1292,11 +1066,7 @@
       "campaignId": null,
       "commentText": "I support the goal of protecting American workers and ensuring that immigration programs do not undermine their wages or opportunities. However, I respectfully oppose eliminating the discretionary 60-day grace period.<br/><br/>Protecting American workers and attracting the world&rsquo;s best talent can serve the same national interest. American businesses provide products and services that Americans rely on. Access to talented people from around the world can help those businesses innovate, compete, and create opportunities for their American employees. NVIDIA, co-founded by Taiwan-born Jensen Huang, illustrates the contributions that immigrant talent can make to American enterprise. This is a broader example of immigration&rsquo;s potential benefits, not a claim about his immigration status or use of this grace period.<br/><br/>The specific question here is whether workers who lose a qualifying job should have a limited opportunity to pursue another lawful option or arrange an orderly departure. A layoff does not necessarily mean that someone&rsquo;s skills are no longer valuable to another American employer. Recruiting, interviewing, and preparing immigration filings take time. Eliminating the grace period could disrupt those hiring processes and cause American businesses to lose qualified candidates unnecessarily.<br/><br/>The existing grace period is limited and discretionary. It does not, by itself, authorize employment. Retaining it therefore need not mean permitting unrestricted work or abandoning safeguards for American workers.<br/><br/>I urge DHS to retain the existing grace period and address any documented abuse through targeted enforcement. Americans deserve both strong protections at work and the benefits of talented people contributing to American businesses and communities.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes eliminating the discretionary 60-day grace period to protect hiring processes and business needs.",
-=======
       "reason": "The commenter explicitly opposes eliminating the 60-day grace period to allow orderly departures or new jobs.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26856"
     },
@@ -1309,11 +1079,7 @@
       "campaignId": null,
       "commentText": "Re: Opposition to the Proposed Elimination of the 60-Day Grace Period<br/><br/>To the Department of Homeland Security and U.S. Citizenship and Immigration Services:<br/><br/>I strongly oppose the proposed elimination of the discretionary 60-day grace period under 8 CFR 214.1(l)(2). This proposal raises serious humanitarian concerns and would impose unnecessary hardship on law-abiding foreign workers and their families.<br/><br/>1. Eliminating the grace period would create inhumane consequences for workers and their families.<br/><br/>Losing a job is already a stressful and financially destabilizing experience. Requiring affected workers to navigate immediate immigration uncertainty on top of sudden unemployment is unnecessarily harsh.<br/><br/>People cannot simply abandon their lives overnight. They need reasonable time to pack their belongings, terminate leases, arrange housing, settle financial obligations, and coordinate international relocation.<br/><br/>For workers with spouses, children, or pets, these challenges become even greater. Families may need to arrange school transfers, medical care, travel documents, and transportation. International pet relocation can require veterinary examinations, vaccinations, health certificates, airline arrangements, and compliance with destination-country import requirements.<br/><br/>These arrangements cannot always be completed immediately, especially during an unexpected job loss.<br/><br/>A worker losing their job should not mean that an entire family must uproot their lives overnight, potentially leaving behind their belongings or beloved pets. Such an outcome would be unnecessarily cruel and disproportionate.<br/><br/>2. The 60-day grace period is a basic humanitarian safeguard, not an unreasonable privilege.<br/><br/>The current grace period provides only a limited opportunity to seek alternative employment, explore lawful immigration options, or prepare for an orderly departure.<br/><br/>Even 60 days may be insufficient for some families to complete an international relocation. Eliminating this limited protection entirely would create additional hardship without adequately accounting for real-world logistical constraints.<br/><br/>3. The proposal would harm American businesses and labor mobility.<br/><br/>Recruitment, technical interviews, background checks, and immigration processing frequently take several weeks or longer. Eliminating the grace period would make it harder for American employers to recruit qualified workers who unexpectedly lose their jobs.<br/><br/>It would also increase employees&#39; dependence on their sponsoring employers, potentially discouraging workers from reporting workplace violations or leaving exploitative employment situations.<br/><br/>4. Immigration enforcement should remain proportionate and humane.<br/><br/>Maintaining immigration compliance is a legitimate government objective. However, enforcement measures should account for the practical realities of employment transitions and the human consequences of abrupt displacement.<br/><br/>There is a fundamental difference between enforcing immigration requirements and imposing immediate hardship on individuals who have complied with the law but unexpectedly lost their jobs.<br/><br/>The government should not create circumstances in which lawful workers face the prospect of abruptly separating from family members, abandoning pets, or leaving behind essential personal belongings simply because their employment ended.<br/><br/>5. DHS should retain the existing 60-day grace period.<br/><br/>I respectfully urge DHS to withdraw this proposal and preserve the existing discretionary 60-day grace period.<br/><br/>At a minimum, any revised policy should provide sufficient time for affected individuals and families to explore lawful alternatives and arrange a safe, orderly departure when necessary.<br/><br/>The 60-day grace period is not merely an administrative convenience. It is a reasonable protection that recognizes the basic dignity of workers and the practical realities of human life.<br/><br/>Losing a job should not mean losing the ability to leave a country with dignity, keep a family together, or safely bring beloved pets home.<br/><br/>Thank you for considering this comment.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter strongly opposes the removal of the grace period due to hardships on workers and families.",
-=======
       "reason": "The commenter explicitly states strong opposition to eliminating the grace period, citing humanitarian and practical hardships.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26857"
     },
@@ -1326,11 +1092,7 @@
       "campaignId": null,
       "commentText": "Please eliminate the 60-Day grace period.<br/><br/>From the last names of people opposing the elimination - most are Telugus - the same ethnic cartels that have locked out Americans from the IT sector. Others are bottom-of-the-barrel immigration lawyers who make their money from such fraudsters, Please don&#39;t fall for the line that they are the best and the brightest -   if that were true they would not have put themselves and their families in this situation.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly requests to eliminate the 60-day grace period.",
-=======
       "reason": "The commenter explicitly requests to eliminate the grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26858"
     },
@@ -1382,11 +1144,7 @@
       "campaignId": null,
       "commentText": "I respectfully oppose the proposal to eliminate the 60-day grace period for H-1B workers after the end of employment.<br/><br/>I am currently experiencing how important this grace period is. I recently lost my job unexpectedly after working lawfully in the United States for several years. I had maintained my immigration status, followed the rules, paid taxes, and built my career here. Losing a job is already difficult, but for an H-1B worker, it immediately becomes an immigration emergency as well.<br/><br/>In my situation, I had been asking for more project opportunities and additional work for a long period of time. Despite actively seeking more responsibilities, I was eventually terminated. I did not have control over the company&#39;s availability of projects or the timing of the termination, but the immigration consequences became mine immediately.<br/><br/>The current 60-day grace period gives workers in situations like mine a limited opportunity to recover from an unexpected job loss and find another employer. Even 60 days can be very challenging. A typical hiring process may involve multiple interviews, internal approvals, background checks, and compensation discussions. After receiving an offer, the new employer still needs time to work with immigration counsel, prepare the Labor Condition Application, wait for certification, and file the H-1B change-of-employer petition.<br/><br/>Without a grace period, an H-1B worker could do everything correctly and still be forced to leave the United States simply because a company&#39;s hiring or immigration process cannot be completed immediately.<br/><br/>This would create tremendous uncertainty for workers and their families. It would also hurt U.S. employers because qualified candidates could become unavailable during normal recruiting and immigration processing timelines.<br/><br/>The 60-day grace period is not an indefinite benefit. It is a short and reasonable transition period that allows a worker to find new employment, pursue another lawful immigration option, or prepare to leave the United States in an orderly manner.<br/><br/>For workers like me, the grace period can be the difference between having a realistic opportunity to continue a lawful career in the United States and being forced to leave because of circumstances outside our control.<br/><br/>I respectfully ask DHS to retain the existing 60-day grace period. If DHS decides to make changes, I strongly urge the agency to preserve a meaningful transition period and protect workers whose employment ended before any new rule becomes effective.<br/><br/>People who have followed the law, maintained valid status, worked, paid taxes, and contributed to the U.S. economy should not lose their ability to remain lawfully in the country overnight because of an unexpected termination.<br/><br/>Thank you for considering my experience and this comment.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the 60-day grace period creates an immigration emergency after unexpected job losses.",
-=======
       "reason": "The commenter explicitly opposes the proposal to eliminate the grace period, citing personal hardship and job loss.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26862"
     },
@@ -1412,11 +1170,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose the proposed rule, &quot;Eliminating the Discretionary 60-Day Grace Period&quot; (Docket No. USCIS-2026-0364; RIN 1615-AD22), and I urge DHS to withdraw it.<br/><br/>The discretionary 60-day grace period, in place since 2017, serves a narrow and humane purpose. It does not authorize any employment. It simply gives a high-skilled worker whose job ends &mdash; most often through a layoff they did not choose &mdash; a short window to find a new employer willing to file a petition, apply for a change of status, or make an orderly departure from the United States.<br/><br/>Eliminating it would mean a worker who has lived here lawfully for years, paid taxes, and complied with every rule falls out of status the day after a layoff. In practice, no one can arrange a new petition, move a household, take children out of school, or book an international departure overnight. The predictable results are not better compliance but chaos: families uprooted within days, leases and mortgages broken, and talented workers lost permanently to competing countries that actively recruit them.<br/><br/>It would also make workers more vulnerable to exploitation. If losing a job means losing status the next day, an employer&#39;s threat of termination becomes a threat of immediate expulsion, which discourages workers from reporting abuse or unsafe conditions.<br/><br/>Finally, workers and employers have made major life and business decisions in reliance on the framework DHS adopted in 2017. Rescinding it without evidence that the grace period has been abused would punish precisely the people who followed the rules, while adding urgent, avoidable filings to USCIS&#39;s own workload.<br/><br/>Please retain the 60-day grace period and withdraw this proposed rule.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes the proposed rule and urges DHS to withdraw it, arguing the grace period is necessary.",
-=======
       "reason": "The commenter argues that removing the grace period causes chaos, harms families, and increases worker vulnerability.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26864"
     },
@@ -1429,11 +1183,7 @@
       "campaignId": null,
       "commentText": "I strongly support the Department of Homeland Security (DHS) proposal to eliminate the discretionary 60-day grace period currently available to certain employment-based nonimmigrant visa holders following the cessation of employment. The proposed rule restores the longstanding principle that temporary employment-based immigration status should remain directly tied to the employment relationship that served as the basis for admission or authorized stay in the United States.<br/><br/>The current grace period creates an exception that allows individuals to remain in the United States for up to 60 days after the employment that justified their nonimmigrant status has ended. While originally intended to provide flexibility, the policy has blurred the connection between visa status and the underlying employment authorization. By eliminating this grace period, DHS is reaffirming that employment-based visas are granted for a specific purpose and should remain contingent upon the continuation of that qualifying employment.<br/><br/>The proposed rule also promotes consistency and integrity within the immigration system. Immigration benefits should be administered according to clear standards that are readily understood by employers, employees, and government agencies alike. A direct link between employment and lawful status reduces ambiguity, discourages misuse of temporary visa categories, and strengthens public confidence in the administration of immigration laws.<br/><br/>Furthermore, DHS has reasonably concluded that eliminating the grace period would reduce administrative burdens associated with adjudicating discretionary requests and determining eligibility for post-employment status retention. Simplifying enforcement and adjudication responsibilities allows agency resources to be directed more efficiently toward core immigration functions, improving program integrity and operational effectiveness.<br/><br/>The United States has a legitimate interest in ensuring that temporary worker programs operate as Congress intended. Individuals who lose qualifying employment retain the ability to seek appropriate immigration benefits before employment ends, depart the United States, or pursue alternative lawful avenues consistent with existing immigration laws. The government is under no obligation to provide an extended period of authorized stay after the fundamental basis for the visa classification no longer exists.<br/><br/>For these reasons, I support DHS&#39;s proposal to eliminate the discretionary 60-day grace period and encourage the Department to finalize the rule. The proposal strengthens the integrity of the immigration system, restores a clear connection between immigration status and qualifying employment, promotes administrative efficiency, and advances the consistent enforcement of U.S. immigration law.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly supports eliminating the 60-day grace period to tie visa status directly to employment.",
-=======
       "reason": "The commenter explicitly states strong support for eliminating the 60-day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26865"
     },
@@ -1446,11 +1196,7 @@
       "campaignId": null,
       "commentText": "I SUPPORT THE ELIMINATION OF THE 60-DAY GRACE PERIOD.<br/><br/>I AM COPYING BELOW A COMMENT THAT APPEARS TO BE FROM A LAWYER (IN LOWER CASE):<br/>&quot;Congress enacted INA &sect;214(n) to facilitate portability of H-1B employment.<br/>The proposed rule would make that statutory protection substantially more difficult to use following an involuntary termination. DHS should therefore explain why eliminating the regulatory grace period does not effectively narrow the practical scope of &sect;214(n) without congressional action.<br/>DHS has authority to administer and regulate the H-1B program, but it should not interpret its regulatory authority in a manner that unnecessarily frustrates an express statutory protection. If Congress intended H-1B workers to have portability when changing employers, DHS should explain why the proposed rule requires workers to find and file with a new employer essentially immediately after termination.<br/>The final rule should demonstrate that the proposed regulation is consistent with, rather than functionally restrictive of, INA &sect;214(n).&quot;<br/><br/>I AM NOT A LAWYER. CONGRESS IS DOING NOTHING FOR THE AMERICAN IT WORKER - WHICH IS NOW A DYING BREED. MY QUESTION TO THIS LAWYER IS THIS: WHY ONLY 60 DAYS? WHY NOT 60 YEARS? THAT WOULD ENSURE PORTABILITY. BETTER STILL, WHY NOT DRAG OUT THE LAST REMAINING AMERICAN WORKERS AND GIVE THEIR JOBS TO FOREIGNERS - THAT WOULD GUARANTEE PORTABILITY WITHOUT INCONVENIENCING THEM. <br/><br/>REGARDING &quot;The final rule should demonstrate that the proposed regulation is consistent with, rather than functionally restrictive of, INA &sect;214(n).&quot; THE ONLY THING THE FINAL RULE NEEDS TO DEMONSTRATE TO ME AS A CITIZEN IS WHAT GOOD IT IS DOING FOR THE AMERICAN IT WORKER. THIS IS WHAT I WILL CONSIDER WHEN I CAST MY BALLOT.<br/><br/>WE ARE VERY CLOSELY WATCHING OUR &#39;REPRESENTATIVES&#39; IN CONGRESS - WE WILL - ACROSS THE BOARD - VOTE FOR THE PARTY THAT WORKS TO FIX THE H-1B VISA PROBLEM.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly states they support the elimination of the 60-day grace period.",
-=======
       "reason": "The commenter explicitly states support for eliminating the 60-day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26866"
     },
@@ -1463,11 +1209,7 @@
       "campaignId": null,
       "commentText": "Please eliminate the 60-day grace period.<br/><br/>In his inaugural address, president Trump had promised to &#39;end the carnage&#39;. The H-1B carnage needs to stop right now. American workers have been receiving body blows in the form of H4 EADs, OPTs, Day 1 CPTs, extensions of grace periods, automatic renewals, portability, etc.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly requests to eliminate the grace period to protect American workers.",
-=======
       "reason": "The commenter explicitly requests to eliminate the 60-day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26867"
     },
@@ -1506,11 +1248,7 @@
       "campaignId": null,
       "commentText": "I support eliminating the discretionary 60-day grace period.<br/><br/>Most comments opposing the elimination and posted with names are from Telugu Indians. This should raise a red flag. Why so many Indians? If they are the best and brightest, why don&#39;t they make their country great? Others that oppose the elimination are self-serving immigration attorneys supporting this farce of the &#39;H-1B talent&#39; that America cannot do without.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly states support for eliminating the discretionary grace period.",
-=======
       "reason": "The commenter explicitly states support for eliminating the 60-day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26870"
     },
@@ -1523,11 +1261,7 @@
       "campaignId": null,
       "commentText": "Please eliminate the 60 day grace period.<br/><br/>Their line of &#39;I did everything right, paid taxes...&#39;. EVERYBODY pays taxes and does the right thing. So now they want special privileges for having paid their taxes? This shouldn&#39;t even be considered. We Americans also did everything right and paid our taxes but we are now pitted against Telugu Indian cartels while successive previous governments and congress have sat on the sidelines and done nothing. <br/><br/>They also don&#39;t deserve special treatment for buying houses and starting families on temporary work permits. <br/><br/>",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly requests to eliminate the grace period.",
-=======
       "reason": "The commenter explicitly requests to eliminate the 60 day grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26871"
     },
@@ -1553,11 +1287,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose eliminating the discretionary 60-day H-1B grace period. Without it, workers and their families may be forced to leave the United States abruptly, leaving little time to sell or arrange housing, manage cars and other belongings, withdraw children from school, and relocate their entire lives. This would cause unnecessary financial hardship, emotional distress, and serious disruption to families.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the grace period causes severe hardship and disruption for workers and families.",
-=======
       "reason": "The commenter strongly opposes eliminating the grace period due to the severe hardship it causes families.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26873"
     },
@@ -1570,11 +1300,7 @@
       "campaignId": null,
       "commentText": "Tyrannical govt traffics enemy invaders into America through open borders, school/work visas, chain migration, anchor babies, fake refugees/asylum seekers...to destroy America from within.<br/><br/>SHUTDOWN ALL VISA PROGRAMS AND DEPORT ALL ENEMY INVADERS.<br/><br/>Too much waste, fraud and abuse in all levels of govt.<br/><br/>Americans will rebuild and restore our Constitution Republic.<br/><br/>America First.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter calls to shutdown all visa programs and deport foreign workers, which aligns with eliminating grace periods.",
-=======
       "reason": "The commenter demands shutting down all visa programs and deporting visa holders.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26874"
     },
@@ -1587,11 +1313,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose the proposed elimination of the 60-day grace period. Many H-1B workers and their families have spent years contributing to the U.S. economy, paying taxes, and building their lives in this country. Losing employment is already difficult, and removing this grace period would create unnecessary financial and emotional hardship by giving families little time to find new opportunities or make critical life arrangements. I respectfully urge DHS to withdraw this proposal and retain the current 60-day grace period.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the grace period causes hardship and urges DHS to withdraw the proposal.",
-=======
       "reason": "The commenter explicitly opposes eliminating the grace period and asks DHS to retain it.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26875"
     },
@@ -1617,11 +1339,7 @@
       "campaignId": null,
       "commentText": "Strongly support this initiative. This visa program needs to be eliminated as soon as possible because it contains too many loopholes. It allows individuals to repeatedly switch between different visas, which ultimately displaces American workers by undercutting their wages.",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter strongly supports eliminating the visa program and its flexibilities to protect American workers.",
-=======
       "reason": "The commenter explicitly supports eliminating the visa program and its provisions due to perceived harm to American workers.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26877"
     },
@@ -1634,11 +1352,7 @@
       "campaignId": null,
       "commentText": "The Embassy of Australia, Washington D.C. welcomes the opportunity to provide comments on the proposed rule concerning the removal of the up to 60-day grace period currently available to certain nonimmigrant workers and their dependents following cessation of employment, including holders of E-3 visas.",
       "stance": "Can't tell",
-<<<<<<< HEAD
-      "reason": "The text only acknowledges the opportunity to comment without expressing a clear stance on the rule.",
-=======
       "reason": "Classified by Gemini.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26878"
     },
@@ -1651,11 +1365,7 @@
       "campaignId": null,
       "commentText": "Disagree.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The comment simply states 'Disagree', indicating opposition to the proposed rule.",
-=======
       "reason": "The commenter disagrees with the proposed rule, implying they want to keep the grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26879"
     },
@@ -1668,11 +1378,7 @@
       "campaignId": null,
       "commentText": "Not supporting Eliminating the discretionary 60 Days Grace period. If this applies then it will be affect large numbers of us born us citizens who are minor and students, who are dependent on H1B immigrants. Also after spending year in country and paying huge taxes and investments in the USA, they will not get fair chance to search for new employer.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that eliminating the grace period harms H-1B dependents and denies workers a fair chance to find a new job.",
-=======
       "reason": "The commenter argues that removing the grace period harms dependents and prevents fair job searches.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26880"
     },
@@ -1684,13 +1390,8 @@
       "lastModifiedDate": "2026-10-29T21:25:32Z",
       "campaignId": null,
       "commentText": "I believe our government should put American workers first and make sure our citizens have fair employment opportunities. I also believe that people working in the United States on temporary visas have a responsibility to understand the requirements of their employment and plan ahead when possible. I experienced something similar while working through a temporary workforce program. I knew when my contract was scheduled to end, so I started preparing for my next job. According to the Department of Homeland Security&#39;s proposed rule, *Eliminating the Discretionary 60-Day Grace Period*, DHS wants to remove the grace period under 8 CFR &sect; 214.1(l)(2), which currently allows certain foreign workers up to 60 days after their employment ends. DHS explains that the change would more directly connect immigration status to qualifying employment and reduce administrative work. I understand those goals, and I believe clear rules and personal responsibility are important.<br/><br/>However, I also recognize that unexpected layoffs and terminations can happen without warning. Someone who loses a job unexpectedly is in a different situation from someone who knows their contract is ending. For that reason, I believe DHS should consider a shorter grace period, such as 30 days, instead of eliminating it completely. This could provide some time to seek another qualifying employer or make arrangements to leave while maintaining clear immigration requirements. I would also like DHS to explain whether a shorter period could achieve its enforcement and administrative goals. I believe we can prioritize American workers and enforce our immigration laws while still allowing a reasonable transition for people who have followed the rules.<br/><br/>Source: Department of Homeland Security, *Eliminating the Discretionary 60-Day Grace Period*, Notice of Proposed Rulemaking, DHS Docket No. USCIS-2026-0364, RIN 1615-AD22, proposed amendment to 8 CFR &sect; 214.1(l)(2).",
-<<<<<<< HEAD
-      "stance": "Oppose",
-      "reason": "The commenter argues against full elimination and suggests keeping a shorter grace period for unexpected layoffs.",
-=======
       "stance": "Support",
       "reason": "The commenter suggests shortening the grace period to 30 days instead of eliminating it completely, which aligns with restricting it.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26881"
     },
@@ -1702,13 +1403,8 @@
       "lastModifiedDate": "2026-10-29T21:25:55Z",
       "campaignId": null,
       "commentText": "What people on ground saying -<br/><br/>This 60 days grace period will not solve anything if proper audit never conducted. Everyone on temp work visa must file 3 months report to USCIS/DOL ( referencing to LCA) regarding what work they completed, what tools and technology they utilized, wages paid , location of work , reporting manager during that work. This form must be approved by VP/CTO before submitting. Failure to do so will cancel all h1bs and side products like OPT/CPT/H4/L2/J1/L1/TN for entire company / Vendor/Sub vendor/ Contractor etc.. If fake or wrong information identified, 10 years jail term with permanent ban on sponsoring any temp work visa all together. This penalty must be meaningful not like Dhillon type which just used like drop in bucket to shield cheaters for life. lol lol.<br/><br/>Mandatory site visit along with quarterly report submission for ( H1b/L1/L2/H4/OPT/CPT/TN/J1 or anyone hold EAD ) is easiest way to solve all the problems. It does not require any new law at all. It just require willingness to do right thing not just listen to political donors/ Masters. <br/><br/>Please don&#39;t argue that its too much work. This submission require VP/CTO approval before submission with heavy financial penalty and jail term so it will reduce cheating/fake volume by 99 pct. Companies are harassing hard working US citizens quarterly basis in the name of productivity so they can easily do this for temp work visa folks as they are doing this for them any way as part of their quarterly productivity program. By the way if you give contract to Laid off Microsoft folks, they will easily do this for you as we are talking about 60k folks. really, what a game.<br/><br/>what a shame.<br/>",
-<<<<<<< HEAD
-      "stance": "Support",
-      "reason": "The commenter argues the 60-day grace period is ineffective and advocates for stricter enforcement and reporting instead.",
-=======
       "stance": "Can't tell",
       "reason": "The comment focuses on demanding mandatory quarterly reports and audits rather than the grace period.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26882"
     },
@@ -1721,11 +1417,7 @@
       "campaignId": null,
       "commentText": "I did my Master&#39;s in the USA in 2015 and I&#39;m on H1B visa since 2018. I have a family here with my son being 3 years old. Losing the job is not always workers fault. Losing of status overnight and forced to leave the country where you have a family, home, mortgage and other loans is unbearably stressful. We should be given a change to sort out the things like mortgage before leaving the county, not just leave everything and pack-up and go. I strongly disagree with the removal of 60 day grace period.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the grace period causes severe stress and opposes its elimination.",
-=======
       "reason": "The commenter strongly disagrees with the removal of the grace period, citing stress and logistical difficulties.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26883"
     },
@@ -1738,11 +1430,7 @@
       "campaignId": null,
       "commentText": "The H-1B program plays an important role in attracting talent, but it should be managed in a way that protects opportunities and fair wages for American workers as well. Many workers are concerned that expanding work authorization through H-4 EADs may increase competition for jobs, especially during a weak job market. The goal should be to support families while also ensuring fair opportunities and wage growth for both American workers and H-1B professionals.<br/><br/>PLEASE dont give 60 days notice to laid off employees, and remove H4 EAD with immediate effect to save the existing jobs which can be taken by Americans",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly requests not to give 60 days notice to laid off employees, supporting the rule.",
-=======
       "reason": "The commenter explicitly requests to remove the 60-day notice for laid-off employees.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26884"
     },
@@ -1755,11 +1443,7 @@
       "campaignId": null,
       "commentText": "This comment is submitted anonymously. I oppose the elimination of the 60-day grace period for H-1B workers on a ground the proposal never considers: the grace period is what makes an orderly, secure offboarding possible, and removing it increases the risk that American employers&#39; trade secrets and proprietary knowledge leave with the worker.<br/><br/>H-1B workers are, by definition, in specialty occupations. In practice that means they often hold deep, firm-specific knowledge: proprietary codebases, internal systems architecture, client configurations, pricing models, and unreleased product plans. When such an employment ends, a responsible offboarding takes time. Access credentials must be revoked methodically across systems. Company devices and documents must be collected. Ongoing projects must be documented and handed over. Exit procedures under the Defend Trade Secrets Act and company confidentiality agreements must be completed while the worker is still present and reachable.<br/><br/>The 60-day grace period is the window in which all of that happens. It gives the employer time to secure its systems and gives the worker time to cooperate &mdash; to return materials, complete handover, and depart in compliance with the law. Eliminate the grace period and that window collapses to zero. A worker who loses their job must leave the country immediately, mid-project, with handover undone and access revocation rushed or incomplete. The employer is left to reconstruct what the worker knew, from colleagues who may not know it, while systems the worker touched remain in an uncertain state.<br/><br/>Worse, abrupt departure creates the very leakage the rule&#39;s supporters should fear. A worker given no time to find new status and no orderly exit has every incentive to carry what they know to the next opportunity &mdash; and for workers in globally competitive fields, that opportunity is often with a foreign competitor. A worker who departs in an orderly process, with time to comply with confidentiality obligations and an interest in preserving professional relationships and references, is far less likely to take proprietary material. Desperation is the enemy of trade-secret protection; the grace period removes desperation from the equation.<br/><br/>The proposal&#39;s stated rationale &mdash; that the grace period lets workers linger without authorization &mdash; ignores that the worker remains in status during those 60 days precisely so the separation can be handled lawfully. Nothing in the rule explains how employers are supposed to protect proprietary information when the employee holding it must vanish overnight, nor does it reckon with the cost to American firms when their own systems knowledge walks out the door unsecured.<br/><br/>DHS should retain the 60-day grace period. It is not a benefit to the departing worker alone; it is a security measure for the American employer, protecting the trade secrets and proprietary knowledge that make American firms competitive.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the grace period harms employers by jeopardizing secure offboarding and trade secrets.",
-=======
       "reason": "The commenter argues against removing the grace period because it is necessary for secure offboarding and protecting trade secrets.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26885"
     },
@@ -1772,11 +1456,7 @@
       "campaignId": null,
       "commentText": "The H-1B program has become a source of frustration for many American workers who feel they are being forced to compete with a growing pool of foreign labor for decent-paying jobs. Critics argue that some companies use the program to reduce labor costs rather than address genuine skill shortages, leaving qualified U.S. citizens facing fewer opportunities, slower wage growth, and increased job insecurity. While the program was intended to bring in specialized talent, many believe reforms are needed to ensure that American workers are not disadvantaged in their own job market.<br/><br/>Americans are paid less than H1 Employees where they are employed. So raising H1 salaries are not going to help Americans or students to get employment. They will benefit only on removing H1 60 days notice period and asked to leave with a week or so<br/><br/>please remove 60 days notice period and save others get such oppurtunities",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly requests removing the 60-day grace period to help American workers.",
-=======
       "reason": "The commenter explicitly requests removing the 60-day grace period to benefit domestic workers.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26886"
     },
@@ -1789,11 +1469,7 @@
       "campaignId": null,
       "commentText": "H-1B abuse is hurting American workers by increasing job competition, weakening wage growth, and allowing companies to favor cheaper labor over U.S. citizens.  BUT AMERICANS ARE PAID LESS THAN H1B (H1B GET PAID ATLEAST 1,40,000$)  , AMERICANS OR PERMANENT RESIDENTS ARE PAID LESS THAN 90,000$ - SO THE SAYING RAISING H1B SALARY WILL HELP AMERICANS GET JOB IS  FALSE STATEMENT.  Enough is enough. H-1B abuse hurts American workers, weakens wage growth, and puts citizens at a disadvantage in their own job market.  AI is killing jobs and remaining oppurtunities are eaten by H1B AND H4 EAD.<br/><br/>PLEASE REMOVE H4EAD AND H1B 60 DAYS AFTER TERMINATION AND SAVE THIS COUNTRY STUDENTS FROM BANKRUPTCY<br/><br/>",
       "stance": "Support",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly requests to remove the 60-day grace period for H-1B workers.",
-=======
       "reason": "The commenter explicitly requests to remove the 60 days grace period after termination.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26887"
     },
@@ -1806,11 +1482,7 @@
       "campaignId": null,
       "commentText": "I oppose the proposed rule because DHS has not adequately explained how eliminating the discretionary grace period would affect the portability framework Congress established in INA 214(n), 8 U.S.C. 1184(n).<br/><br/>Section 214(n) allows certain H-1B workers to begin new employment upon the filing of a qualifying petition, without waiting for adjudication. Congress thus created a specific statutory mechanism for job mobility within the H-1B category. DHS also recognized in the 2016 rule that the grace period supported portability, stability and flexibility for high-skilled workers.<br/><br/>Although DHS states that H-1B status is employment-based, that general point does not address how removing the grace period would affect the practical operation of &sect; 214(n), especially when a worker loses employment before a new employer can file a petition. The continued existence of the statute does not by itself show that portability will remain realistically available under the same circumstances.<br/><br/>DHS should specifically address whether eliminating the grace period changes the circumstances in which workers can meet the filing and eligibility requirements of &sect; 214(n), and what the consequences would be for workers whose employment ends involuntarily.<br/><br/>The issue is not whether Congress required a 60-day grace period. The issue is whether DHS has provided a reasoned explanation, consistent with the Administrative Procedure Act, for eliminating a policy that may materially undermine the practical operation of Congress&rsquo;s portability framework.<br/>",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter argues that removing the grace period undermines statutory job portability and lacks a reasoned explanation.",
-=======
       "reason": "The commenter opposes the rule because removing the grace period undermines statutory job portability and lacks a reasoned explanation.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26888"
     },
@@ -1823,11 +1495,7 @@
       "campaignId": null,
       "commentText": "I strongly oppose the proposed removal of the discretionary grace period and urge DHS to retain the current 60day framework.<br/><br/>Eliminating the grace period would impose disproportionate hardship on workers and their families. Employment can end unexpectedly and for reasons outside a worker&rsquo;s control. The current, limited period provides a short but critical window for affected individuals to seek another employer or make orderly arrangements to depart the United States. Removing it would turn sudden job loss into an immediate immigration crisis for workers and their dependents. DHS should explain why such hardship is justified when the current period is already time-limited and discretionary.<br/><br/>DHS&rsquo;s administrative-burden rationale also does not justify eliminating the grace period altogether. The proposal cites more than 1.9 million petitions or applications for which USCIS may have had to assess whether the grace period applied between fiscal year 2018 and May 20, 2026. But that figure does not represent the number of individuals who actually used the grace period. A large number of cases potentially requiring review is not, by itself, sufficient justification for removing an important protection.<br/><br/>Before eliminating a safeguard with serious consequences for families, DHS should consider less disruptive ways to simplify administration.",
       "stance": "Oppose",
-<<<<<<< HEAD
-      "reason": "The commenter explicitly opposes removing the grace period, arguing it causes severe hardship.",
-=======
       "reason": "The commenter strongly opposes removing the grace period and urges DHS to retain the current framework.",
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26889"
     },
@@ -2711,7 +2379,7 @@
       "campaignId": null,
       "commentText": "What people on ground saying -<br/><br/>This rule will not have any impact at all if other issues related to recruiting is not addressed before this rule go live. One online research says 99pct I-140 and green card approved folks used fake role/ fake Job description and fake tasks games multiple times during their career and ripped all the benefits but new h1b and F1 students who did nothing will pay big price as all those cheats will rewarded big for their cheating and no new rules apply to them. why ?<br/><br/>https://news.bloomberglaw.com/immigration/suspended-tech-visa-program-offers-a-warning-on-hiring-records?context=search&amp;index=1<br/><br/>Above article confirming this game by prominent attorney who has years of advising experience in this h1b and side products game. This is open secret now but Task force ladies just wasting time only. Many states where those workers worked, have misclassification is criminal offense. cheating with Public traded companies bound by SEC strict cheating and money laundering laws. Where are handcuffs ?<br/><br/>Currently Every company in STEM/IT ( yes all , 100 pct.) made sure that they misuse applicant privacy using vendors/sub vendors/contractors/offshore in such a way that they move every US citizen to Contract roles only so they can take big from middle. Thanks to Keith who is enemy of US workers and somehow now leader of that department whose primary job is to protect workers not cheat companies. <br/><br/>Keith,<br/>Times up. Either you fix your mistake and work for hard working US workers like oath you took by Christmas or get ready to go behind bars for life as strong evidence surfaced. So many videos which shows your dealing with those cheat companies and what you promised them on dinner table at different hotels. Some videos are with labor unions leaders too. what a game, Correct ?<br/><br/>GOP and MAGA guys are done for midterm. This is all by design. Side deals, Correct Mr. President?<br/><br/>Any future GOP hopeful, must make sure that during lame duck session , Dick and Grassley law passed with few modifications like below else forget 2028 too.<br/>1. Add TN/OPT/CPT visa into same law as h1b and L1 if you not able to completely eliminate all those as so much overlapping and redundant to cheat only.<br/>2. Add Marino&#39;s offshore taxing provision into this bill with tiered rate. Higher offshore or non US citizens utilization will cost more tax with minimum 30 pct.<br/>3. Add recruiter license requirement in law<br/>4. Add maximum non citizens allowed for any STEM division to 5pct only<br/>5. Any job must go to US citizen ( even if training required for 6 months) as this abuse is going on for 20 years or so. just same level field Now will not be accepted until training clause stays there for minimum 5 years as it take time to build own workforce. same what offshore did over they 20 years. they hire freshers and give them training on real project for 2 years before deploy them to real project.<br/>6. All TN/L1/H1/L2/H4/OPT/CPT/J1 require public access file for each company employee/vendor employee/contractors/offshore to be posted on company website or USCIS website for easy access. Basically any non US citizen/temp work visa folks file must be easily accessible. Easy complain website handled by USCIS so any one can anonymously file complain against cheats when they discover wrongdoing. Why companies post this on their office which no one knows and read where USCIS can easily maintain online and every one can have easy access?<br/>7. Eliminate wage level 1 and 2 as those are high skilled, rare find, extra ordinary skills temp work visa. Wage requirement of law must start with wage level 3 plus 25 pct. premium for next 5 years. same level field will not be accepted for next 5 years.<br/>8. US citizens must not force to contract only roles using dirty recruiting games so middleman keep taking commission for life. Middleman commission must be listed in any offer given to candidate along with maximum allowed amount like 5k or first 2 months 2pct of total salary. During contract period, companies must pay full premium and other benefits which they pay to their executives or until they hired fulltime with full benefits.<br/><br/>MAGA is fooled by corporate cheats. Abbott is taking campaign money from big tech so how come he will not work in their best interst after election in Texas where Ken who is doing same but saying he fined Google and big tech for privacy breach. It&#39;s laughable Ken. Atlanta is worst than North Dallas. Same problem every where. What a shame.<br/><br/>",
       "stance": "Can't tell",
-      "reason": "The comment focuses on general visa fraud and recruitment issues rather than the 60-day grace period.",
+      "reason": "\"This rule will not have any impact at all if other issues related to recruiting is not addressed before this rule go live.\" The commenter discusses recruitment issues, fraud, and misclassification rather than taking a clear support or oppose stance on eliminating the 60-day grace period.",
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26803"
     },
@@ -8002,7 +7670,7 @@
       "campaignId": null,
       "commentText": "The 14th Amendment is clearly about defining U.S. citizenship and this amendment governs how the Census Bureau should count persons in the United States. The amendment even suggests that the count is intended to only include citizens and those under each state’s sovereign authority.\n\n \n\nI support counting U.S. citizens and lawful permanent residents, but not people who are in the United States illegally, when deciding how many House seats each state gets. Please ask about citizenship in the 2030 census and explain how you will check legal status.",
       "stance": "Can't tell",
-      "reason": "\"The 14th Amendment is clearly about defining U.S. citizenship and this amendment governs how the Census Bureau should count persons in the United States.\" The comment addresses the 14th Amendment and the Census, which is an entirely different topic.",
+      "reason": "\"I support counting U.S. citizens and lawful permanent residents, but not people who are in the United States illegally, when deciding how many House seats each state gets.\" The comment addresses the census and apportionment, which is a different topic entirely.",
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-26302"
     },
@@ -13348,152 +13016,6 @@
       "reason": "The commenter believes the rule should keep the 60-day grace period.",
       "classifiedBy": "gemini",
       "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25984"
-<<<<<<< HEAD
-    },
-    {
-      "id": "USCIS-2026-0364-25985",
-      "title": "Comment Submitted by Anonymous  G",
-      "submitterName": "Anonymous  G",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "I Dont support this, there are so many H1B holders who gets effected. This Rule creates lot of stress on H1b holders and their family. Every H1B holder is paying taxes as per law, Everyone needs some time to find another job in this critical scenario of layoffs.",
-      "stance": "Oppose",
-      "reason": "The commenter does not support the rule because it creates stress during layoffs.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25985"
-    },
-    {
-      "id": "USCIS-2026-0364-25986",
-      "title": "Comment Submitted by Anonymous",
-      "submitterName": "Anonymous",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "I am writing this comment as an H-1B professional who has lived, worked, and built my life in the United States. I am deeply concerned and anxious about the proposed rule to eliminate the 60-day grace period.\nFor professionals like myself, the 60-day window isn't just a convenience—it is a vital human safety net. In the tech industry, layoffs and restructurings happen unexpectedly due to market shifts. If someone loses their job, overnight displacement means packing up an entire household, pulling kids out of schools, selling cars, and breaking leases within zero days. That is practically impossible and causes immense, unnecessary distress.\nThe current 60-day grace period allows individuals a reasonable, humane amount of time to find a new employer, file for a change of status, or wrap up their affairs in an orderly manner without falling out of status through no fault of their own. Taking away this small buffer will create immense panic, disrupt compliance, and discourage top global talent from choosing or staying in the U.S.\nI respectfully request that DHS reconsider this proposed change and keep the 60-day grace period in place to protect the stability and well-being of the workforce that contributes so much to the American economy.",
-      "stance": "Oppose",
-      "reason": "The commenter is deeply concerned and opposes eliminating the human safety net grace period.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25986"
-    },
-    {
-      "id": "USCIS-2026-0364-25987",
-      "title": "Comment Submitted by Anonymous",
-      "submitterName": "Anonymous",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "I strongly oppose the proposal to remove the 60-day grace period for H-1B workers.\n\nI have been living in the United States for many years. My wife and I have built our life here. We have two young children, we bought a house, and we have financial responsibilities just like any other family living in this country.\n\nFor us, the United States is not just a place where I work. It is our home.\n\nI understand that immigration rules need to be followed, and I have always respected that. But I really hope the government understands what this change would mean for families like mine.\n\nIf I unexpectedly lose my job, I would already be worried about finding another one, paying my mortgage, and taking care of my wife and children. Without the 60-day grace period, I could also face the possibility of having to leave the country with my entire family.\n\nWhat would happen to our house, our children’s lives, and everything we have built here over the years? It is painful even to imagine being in that situation.\n\nWe are hardworking people who pay taxes, follow the law, and contribute to this country. We are not asking for special treatment. We are simply asking for some reasonable time to find another job without putting our families through such uncertainty.\n\nEven 60 days is not enough in today’s job market. I sincerely request that the government keep the existing grace period and consider extending it to 90 or 120 days instead of removing it.\n\nPlease remember that behind every H-1B worker, there may be a family whose entire life could be affected by this decision.\n\nThank you for considering my comment.",
-      "stance": "Oppose",
-      "reason": "The commenter strongly opposes removing the 60-day grace period and asks the government to keep or extend it.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25987"
-    },
-    {
-      "id": "USCIS-2026-0364-25988",
-      "title": "Comment Submitted by Sai Madan Mohan Patlolla",
-      "submitterName": "Sai Madan Mohan Patlolla",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "Not in favor, don’t end it",
-      "stance": "Oppose",
-      "reason": "The commenter states they are not in favor of ending the grace period.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25988"
-    },
-    {
-      "id": "USCIS-2026-0364-25989",
-      "title": "Comment Submitted by Anonymous",
-      "submitterName": "Anonymous",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "Re: DHS Docket No. USCIS-2026-0364, RIN 1615-AD22, Eliminating the Discretionary 60-Day Grace Period\n\nI strongly oppose this proposed rule and urge DHS to withdraw it and keep 8 CFR 214.1(l)(2) in place.\n\n1. Families and children would be uprooted overnight. Under the proposal, a worker falls out of status the day after employment ends, and so do the spouse and children. A high school student would have to leave in the middle of a semester with no time to properly withdraw, request transcripts, transfer credits, finish exams, or complete college applications. Many of these children have spent all of their lives here, and some siblings are U.S. citizens. Sixty days is the minimum needed to make an orderly decision for a family, whether that is finding a new job, changing status, or planning a departure that does not wreck a child's education.\n\n2. Forced exits cause defaults that U.S. lenders and communities absorb. Workers on these visas carry mortgages, car loans, leases, and other obligations. In the current housing market a home cannot be sold in a day or even a few weeks. A sudden required departure leads to rushed or distressed sales, missed payments, broken leases, and loan defaults, with the losses passed to U.S. banks, landlords, and neighbors whose property values suffer. The grace period lets people close out these obligations responsibly.\n\n3. The rule undermines job portability that Congress intended. The grace period was created in 2016 to carry out the American Competitiveness in the 21st Century Act, which was meant to give high skilled workers the ability to move between employers. Portability is meaningless if a laid off worker cannot remain long enough for a new employer to file a petition. Layoffs are almost always no fault events, often with little or no notice.\n\n4. The stated justification is thin. DHS cites alignment with the statute and reduced administrative burden, but presents no evidence that the grace period is unlawful or widely abused. The grace period is already discretionary and capped at 60 days or the end of the I-94, whichever is shorter, so DHS already has the tools to deny it in an abusive case. Removing it will likely increase burden: affected workers will file emergency change of status applications such as B-2 requests, generating more adjudications, more requests for evidence, and more unlawful presence questions than the current simple rule.\n\n5. It creates a serious mental health burden and makes workers more vulnerable. Knowing that one layoff means immediate departure for the whole family creates constant anxiety. Workers will feel compelled to overwork, accept unsafe or unfair conditions, and stay silent about wage violations, harassment, or safety problems rather than risk their status. That hurts the U.S. workers who work alongside them and weakens labor standards across the workplace.\n\n6. U.S. employers and the economy lose. DHS itself estimates an average of about 65,752 workers a year used the grace period between 2021 and 2025. These are physicians, engineers, researchers, and other professionals in shortage fields. Without a grace period, employers lose the chance to hire experienced workers already in the U.S. who have been displaced elsewhere, must restart costly recruiting from abroad, and face added obligations such as return transportation costs. Talented workers and their families will increasingly choose Canada, the UK, or other competitors that offer a more humane transition.\n\n7. Long term contributors deserve fairness. Many affected workers have lived here for a decade or more, paid taxes and Social Security, and are waiting in employment based green card backlogs through no fault of their own. Removing their ability to remain even a few weeks after a layoff ignores the reliance interests built since 2017. People made major decisions such as buying homes, enrolling children in school, and starting families based on the existing rule.\n\nRequested action: Withdraw the proposed rule. If DHS proceeds, it should at minimum retain a reasonable grace period for workers whose employment ends involuntarily, protect dependents with school age children until the end of the academic term, provide a long transition period before any change takes effect, and publish data showing the actual administrative burden and any abuse that would justify the change.\n\nThank you for considering this comment.",
-      "stance": "Oppose",
-      "reason": "The commenter strongly opposes the proposed rule and urges DHS to keep the current grace period in place.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25989"
-    },
-    {
-      "id": "USCIS-2026-0364-25990",
-      "title": "Comment Submitted by Anirudh Jaiswal",
-      "submitterName": "Anirudh Jaiswal",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "I respectfully oppose the proposed elimination of the discretionary 60-day grace period for nonimmigrant workers.\nThe 60-day grace period has been an important protection for foreign workers and their families for years. It provides a reasonable amount of time for workers who unexpectedly lose their jobs to find new employment, secure a new employer willing to sponsor their visa, or explore other lawful immigration options.\nEliminating this protection would create unnecessary uncertainty and hardship for thousands of skilled professionals and their families who have built their lives in the United States. Losing a job is already a stressful experience, and immigration-related deadlines can make an already difficult situation even more challenging.\nMany H-1B workers contribute significantly to the U.S. economy, support American businesses, pay taxes, and have families who depend on their immigration status. Job losses can happen because of layoffs, budget cuts, contract cancellations, or broader economic conditions, often through no fault of the employee.\nThe existing 60-day grace period provides a limited but essential opportunity to recover from these unexpected circumstances and maintain lawful immigration status. Removing this flexibility would put workers and their dependents at greater risk of disruption, even when they are actively seeking employment and making every reasonable effort to comply with immigration laws.\nEliminating an established safeguard is not a meaningful solution to employment-related immigration challenges. Instead, I urge USCIS to preserve the existing 60-day discretionary grace period and consider policies that promote compliance while recognizing the realities of today’s employment market.\nI respectfully request that USCIS reconsider this proposal and retain the 60-day grace period to protect affected workers and their families during periods of unexpected unemployment.\nThank you for considering my comments.",
-      "stance": "Oppose",
-      "reason": "The commenter opposes the elimination of the grace period to avoid uncertainty and hardship for workers.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25990"
-    },
-    {
-      "id": "USCIS-2026-0364-25991",
-      "title": "Comment Submitted by Arun Kumar Reddy",
-      "submitterName": "Arun Kumar Reddy",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "End grace period only if we are getting same support post losing a job & get financial aid as we also paid ssn tax",
-      "stance": "Oppose",
-      "reason": "\"End grace period only if we are getting same support post losing a job & get financial aid as we also paid ssn tax\" The commenter conditions the elimination of the grace period on government financial support, effectively opposing the rule as currently proposed without such benefits.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25991"
-    },
-    {
-      "id": "USCIS-2026-0364-25992",
-      "title": "Comment Submitted by Anonymous",
-      "submitterName": "Anonymous",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "Subject: Opposition to Eliminating the 60-Day Grace Period\n\nDear USCIS Officials,\n\nI respectfully oppose the proposed elimination of the 60-day grace period for employment-based visa holders.\n\nUnexpected job loss is already a stressful situation, especially for families with children and financial responsibilities. Removing this grace period would create additional uncertainty and hardship for individuals who have followed immigration laws, worked hard, paid taxes, and contributed to the U.S. economy.\n\nThe existing 60-day grace period provides a reasonable opportunity to find new employment, explore lawful immigration options, or make necessary arrangements without unnecessary pressure.\n\nI fully respect the importance of immigration regulations, but I sincerely believe that fairness and compassion should also be considered when making decisions that affect families and their futures.\n\nI kindly request that DHS reconsider this proposal and retain the existing 60-day grace period.\n\nThank you for considering our concerns.",
-      "stance": "Oppose",
-      "reason": "The commenter opposes eliminating the grace period and requests that DHS retain it.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25992"
-    },
-    {
-      "id": "USCIS-2026-0364-25993",
-      "title": "Comment Submitted by Anonymous",
-      "submitterName": "Anonymous",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "My brother served in Vietnam. He was then a forest fighter and applied for park ranger at Mount Diablo state park in Concord, California, only to lose out to a woman from France.  Who had a green card.",
-      "stance": "Can't tell",
-      "reason": "\"My brother served in Vietnam. He was then a forest fighter and applied for park ranger at Mount Diablo state park in Concord, California, only to lose out to a woman from France. Who had a green card.\" The comment discusses a personal anecdote about a state park job application unrelated to the federal grace period rule.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25993"
-    },
-    {
-      "id": "USCIS-2026-0364-25994",
-      "title": "Comment Submitted by Anonymous",
-      "submitterName": "Anonymous",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "Dear Department of Homeland Security and USCIS,\n\nI am writing to express my strong opposition to the proposed rule eliminating the discretionary 60-day grace period for H-1B and other employment-based nonimmigrant visa holders.\n\nThe existing 60-day grace period is not a luxury or an unnecessary immigration benefit. It is an essential safeguard that provides legal immigrants and their families with a reasonable opportunity to navigate unexpected employment disruptions while complying with U.S. immigration laws.\n\nMany H-1B professionals have spent years contributing to the American economy, paying taxes, supporting American businesses, purchasing homes, raising children, and building their lives in the United States. Losing a job is already a stressful and financially challenging experience. Requiring these individuals and their families to leave the country immediately would create additional hardships during an already difficult situation.\n\nI respectfully request that DHS consider the following concerns:\n\n1. Impact on Families and Children\n\nMany H-1B workers have spouses and children who depend on their immigration status. Their children may be U.S. citizens or enrolled in American schools. Eliminating the grace period could force families to make immediate decisions about leaving their homes, interrupting their children’s education, and disrupting essential medical care.\n\nChildren and families should not face such severe consequences simply because a parent unexpectedly loses employment.\n\n2. Job Loss Is Often Beyond an Employee’s Control\n\nLayoffs, corporate restructuring, budget reductions, and business closures can occur without warning. Skilled professionals who have followed immigration laws should not face immediate immigration uncertainty because of circumstances outside their control.\n\n3. Employment Transfers Require Time\n\nFinding another qualified employer, completing interviews, negotiating employment terms, obtaining legal documentation, and preparing an H-1B transfer petition can take several weeks. These processes involve employers, immigration attorneys, and government agencies.\n\nRemoving the grace period would make it significantly harder for businesses to retain experienced professionals who are already legally present in the United States.\n\n4. Financial and Emotional Hardship\n\nMany families have mortgages, rental agreements, car loans, medical expenses, and other financial obligations. Expecting an entire family to relocate internationally immediately after an unexpected job loss is unrealistic and could create serious financial and emotional hardship.\n\n5. Economic Impact on U.S. Businesses\n\nH-1B professionals contribute expertise in technology, healthcare, engineering, finance, and numerous other industries. The current grace period allows American employers to recruit qualified workers already living in the United States rather than requiring them to leave and potentially undergo additional international immigration procedures.\n\n6. A More Balanced Approach\n\nI understand the importance of maintaining immigration program integrity and reducing administrative burdens. However, these objectives should be balanced against the real-world consequences for workers, employers, and families.\n\nInstead of eliminating the grace period, DHS could consider simplifying documentation requirements, clarifying eligibility standards, and maintaining appropriate safeguards against misuse.\n\nMy Request\n\nI respectfully urge DHS and USCIS to reconsider this proposal and retain the existing discretionary 60-day grace period under 8 CFR 214.1(l)(2).\n\nSixty days is already a limited amount of time to recover from an unexpected job loss, secure another employment opportunity, and complete the necessary immigration procedures.\n\nLegal immigrants who have contributed to the United States for years deserve a reasonable opportunity to manage unexpected career transitions without immediately placing their families, livelihoods, and futures at risk.\n\nImmigration policies should promote compliance, economic stability, family unity, and fairness while protecting the integrity of the immigration system.\n\nThank you for considering my comments and the real-life consequences this proposed change could have on thousands of law-abiding families.\n\nSincerely,\n\nA Concerned Legal Immigrant and U.S. Workforce Contributor",
-      "stance": "Oppose",
-      "reason": "The commenter expresses strong opposition to the proposed rule and requests retention of the grace period.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25994"
-    },
-    {
-      "id": "USCIS-2026-0364-25995",
-      "title": "Comment Submitted by Anonymous",
-      "submitterName": "Anonymous",
-      "postedDate": "2026-10-15T04:00Z",
-      "lastModifiedDate": "2026-10-15T04:00Z",
-      "campaignId": null,
-      "commentText": "H1B has become one of the most abusive Vida programs as equivalent to the illegal migration in the history of United States. Literally every person gets a h1b in one of their lotteries and permanently stay into the United States, Shouldn't H1B mean selective and temporary? Every employer abuses this path and literally renews it for lifetime. H1B has become so dominant recruiters have been treating every other Visa including TN visa also a sponsored one when it's not. It's time US needs a complete overhaul of its Immigration program eliminating the most abusive Visa program on the earth.",
-      "stance": "Support",
-      "reason": "The commenter criticizes the H-1B program and advocates for a complete overhaul and elimination of the visa path.",
-      "classifiedBy": "gemini",
-      "url": "https://www.regulations.gov/comment/USCIS-2026-0364-25995"
-=======
->>>>>>> 8c98d10 (fix: walk the whole docket every run)
     }
   ]
 }
