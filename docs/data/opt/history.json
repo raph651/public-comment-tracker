@@ -108,23 +108,40 @@
     },
     {
       "t": "2026-10-29T04:00Z",
+<<<<<<< HEAD
       "support": 546,
       "oppose": 3815,
       "cantTell": 93,
+=======
+      "support": 550,
+      "oppose": 3822,
+      "cantTell": 82,
+>>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "total": 4454
     },
     {
       "t": "2026-10-30T04:00:00Z",
+<<<<<<< HEAD
       "support": 547,
       "oppose": 3976,
       "cantTell": 101,
       "total": 4624
+=======
+      "support": 552,
+      "oppose": 4020,
+      "cantTell": 94,
+      "total": 4666
+>>>>>>> 8c98d10 (fix: walk the whole docket every run)
     }
   ],
   "tags": [
     {
       "id": "MM15",
+<<<<<<< HEAD
       "count": 503,
+=======
+      "count": 507,
+>>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "points": [
         {
           "t": "2026-10-19T04:00Z",
@@ -192,9 +209,15 @@
         {
           "t": "2026-10-30T04:00:00Z",
           "support": 0,
+<<<<<<< HEAD
           "oppose": 503,
           "cantTell": 0,
           "total": 503
+=======
+          "oppose": 507,
+          "cantTell": 0,
+          "total": 507
+>>>>>>> 8c98d10 (fix: walk the whole docket every run)
         }
       ]
     },
@@ -331,7 +354,7 @@
     },
     {
       "id": "MM2",
-      "count": 29,
+      "count": 30,
       "points": [
         {
           "t": "2026-10-09T04:00Z",
@@ -381,12 +404,19 @@
           "oppose": 29,
           "cantTell": 0,
           "total": 29
+        },
+        {
+          "t": "2026-10-30T04:00:00Z",
+          "support": 0,
+          "oppose": 30,
+          "cantTell": 0,
+          "total": 30
         }
       ]
     },
     {
       "id": "MM16",
-      "count": 22,
+      "count": 23,
       "points": [
         {
           "t": "2026-10-23T04:00Z",
@@ -408,6 +438,13 @@
           "oppose": 22,
           "cantTell": 0,
           "total": 22
+        },
+        {
+          "t": "2026-10-30T04:00:00Z",
+          "support": 0,
+          "oppose": 23,
+          "cantTell": 0,
+          "total": 23
         }
       ]
     }

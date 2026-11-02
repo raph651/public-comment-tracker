@@ -231,8 +231,13 @@ async function fetchWorker(objectId: string): Promise<void> {
   // Without a saved cursor (fresh store, e.g. straight after a bulk ingest),
   // start from the newest comment we already hold instead of re-walking the
   // whole docket — otherwise the first window finds nothing and stops.
-  const newest = stored.reduce((latest, row) => (row.lastModifiedDate > latest ? row.lastModifiedDate : latest), '');
-  let cursor = state.cursor || (newest ? stamp(newest) : EPOCH);
+  // Always walk the docket from the beginning. Comments are published with a
+  // lag, so a comment can appear after our cursor has passed its
+  // lastModifiedDate and would otherwise never be revisited. The list walk is
+  // ~110 requests for this docket, cheap against the 1,000/hour budget, and
+  // details are only fetched for ids we do not already hold.
+  let cursor = EPOCH;
+  void state;
   let seen = known.size;
   let windowCount = 0;
 

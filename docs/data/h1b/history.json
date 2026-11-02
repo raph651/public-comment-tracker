@@ -262,17 +262,30 @@
     },
     {
       "t": "2026-10-29T04:00:00Z",
+<<<<<<< HEAD
       "support": 8513,
       "oppose": 18081,
       "cantTell": 290,
+=======
+      "support": 8514,
+      "oppose": 18088,
+      "cantTell": 282,
+>>>>>>> 8c98d10 (fix: walk the whole docket every run)
       "total": 26884
     },
     {
       "t": "2026-10-30T04:00:00Z",
+<<<<<<< HEAD
       "support": 8520,
       "oppose": 18134,
       "cantTell": 293,
       "total": 26947
+=======
+      "support": 8524,
+      "oppose": 18149,
+      "cantTell": 285,
+      "total": 26958
+>>>>>>> 8c98d10 (fix: walk the whole docket every run)
     }
   ],
   "tags": [
