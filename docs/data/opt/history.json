@@ -126,12 +126,19 @@
       "oppose": 4317,
       "cantTell": 108,
       "total": 5000
+    },
+    {
+      "t": "2026-11-03T05:00:00Z",
+      "support": 588,
+      "oppose": 4467,
+      "cantTell": 113,
+      "total": 5168
     }
   ],
   "tags": [
     {
       "id": "MM15",
-      "count": 529,
+      "count": 545,
       "points": [
         {
           "t": "2026-10-19T04:00Z",
@@ -209,6 +216,13 @@
           "oppose": 529,
           "cantTell": 0,
           "total": 529
+        },
+        {
+          "t": "2026-11-03T05:00:00Z",
+          "support": 0,
+          "oppose": 545,
+          "cantTell": 0,
+          "total": 545
         }
       ]
     },
@@ -351,6 +365,54 @@
       ]
     },
     {
+      "id": "MM16",
+      "count": 31,
+      "points": [
+        {
+          "t": "2026-10-23T04:00Z",
+          "support": 0,
+          "oppose": 18,
+          "cantTell": 0,
+          "total": 18
+        },
+        {
+          "t": "2026-10-26T04:00Z",
+          "support": 0,
+          "oppose": 20,
+          "cantTell": 0,
+          "total": 20
+        },
+        {
+          "t": "2026-10-27T04:00Z",
+          "support": 0,
+          "oppose": 22,
+          "cantTell": 0,
+          "total": 22
+        },
+        {
+          "t": "2026-10-30T04:00:00Z",
+          "support": 0,
+          "oppose": 23,
+          "cantTell": 0,
+          "total": 23
+        },
+        {
+          "t": "2026-11-02T05:00:00Z",
+          "support": 0,
+          "oppose": 26,
+          "cantTell": 0,
+          "total": 26
+        },
+        {
+          "t": "2026-11-03T05:00:00Z",
+          "support": 0,
+          "oppose": 31,
+          "cantTell": 0,
+          "total": 31
+        }
+      ]
+    },
+    {
       "id": "MM2",
       "count": 30,
       "points": [
@@ -409,47 +471,6 @@
           "oppose": 30,
           "cantTell": 0,
           "total": 30
-        }
-      ]
-    },
-    {
-      "id": "MM16",
-      "count": 26,
-      "points": [
-        {
-          "t": "2026-10-23T04:00Z",
-          "support": 0,
-          "oppose": 18,
-          "cantTell": 0,
-          "total": 18
-        },
-        {
-          "t": "2026-10-26T04:00Z",
-          "support": 0,
-          "oppose": 20,
-          "cantTell": 0,
-          "total": 20
-        },
-        {
-          "t": "2026-10-27T04:00Z",
-          "support": 0,
-          "oppose": 22,
-          "cantTell": 0,
-          "total": 22
-        },
-        {
-          "t": "2026-10-30T04:00:00Z",
-          "support": 0,
-          "oppose": 23,
-          "cantTell": 0,
-          "total": 23
-        },
-        {
-          "t": "2026-11-02T05:00:00Z",
-          "support": 0,
-          "oppose": 26,
-          "cantTell": 0,
-          "total": 26
         }
       ]
     },

@@ -276,10 +276,17 @@
     },
     {
       "t": "2026-11-02T05:00:00Z",
-      "support": 8538,
-      "oppose": 18237,
+      "support": 8539,
+      "oppose": 18242,
       "cantTell": 295,
-      "total": 27070
+      "total": 27076
+    },
+    {
+      "t": "2026-11-03T05:00:00Z",
+      "support": 8612,
+      "oppose": 18500,
+      "cantTell": 302,
+      "total": 27414
     }
   ],
   "tags": [
@@ -319,7 +326,7 @@
     },
     {
       "id": "MM73",
-      "count": 160,
+      "count": 162,
       "points": [
         {
           "t": "2026-09-17T04:00Z",
@@ -376,12 +383,19 @@
           "oppose": 0,
           "cantTell": 0,
           "total": 160
+        },
+        {
+          "t": "2026-11-03T05:00:00Z",
+          "support": 162,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 162
         }
       ]
     },
     {
       "id": "MM78",
-      "count": 129,
+      "count": 133,
       "points": [
         {
           "t": "2026-09-11T04:00Z",
@@ -494,6 +508,13 @@
           "oppose": 0,
           "cantTell": 0,
           "total": 129
+        },
+        {
+          "t": "2026-11-03T05:00:00Z",
+          "support": 133,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 133
         }
       ]
     },
@@ -609,7 +630,7 @@
     },
     {
       "id": "MM59",
-      "count": 67,
+      "count": 68,
       "points": [
         {
           "t": "2026-09-15T04:00Z",
@@ -715,6 +736,13 @@
           "oppose": 67,
           "cantTell": 0,
           "total": 67
+        },
+        {
+          "t": "2026-11-03T05:00:00Z",
+          "support": 0,
+          "oppose": 68,
+          "cantTell": 0,
+          "total": 68
         }
       ]
     },
@@ -913,7 +941,7 @@
     },
     {
       "id": "MM83",
-      "count": 35,
+      "count": 37,
       "points": [
         {
           "t": "2026-09-17T04:00Z",
@@ -949,6 +977,13 @@
           "oppose": 0,
           "cantTell": 0,
           "total": 35
+        },
+        {
+          "t": "2026-11-03T05:00:00Z",
+          "support": 37,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 37
         }
       ]
     },
