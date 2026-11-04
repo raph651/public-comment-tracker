@@ -283,10 +283,17 @@
     },
     {
       "t": "2026-11-03T05:00:00Z",
-      "support": 8612,
-      "oppose": 18500,
-      "cantTell": 302,
-      "total": 27414
+      "support": 8623,
+      "oppose": 18541,
+      "cantTell": 304,
+      "total": 27468
+    },
+    {
+      "t": "2026-11-04T05:00:00Z",
+      "support": 8633,
+      "oppose": 18639,
+      "cantTell": 307,
+      "total": 27579
     }
   ],
   "tags": [
