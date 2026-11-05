@@ -294,6 +294,13 @@
       "oppose": 18639,
       "cantTell": 307,
       "total": 27579
+    },
+    {
+      "t": "2026-11-05T05:00:00Z",
+      "support": 8672,
+      "oppose": 18792,
+      "cantTell": 317,
+      "total": 27781
     }
   ],
   "tags": [
@@ -402,7 +409,7 @@
     },
     {
       "id": "MM78",
-      "count": 133,
+      "count": 135,
       "points": [
         {
           "t": "2026-09-11T04:00Z",
@@ -522,6 +529,13 @@
           "oppose": 0,
           "cantTell": 0,
           "total": 133
+        },
+        {
+          "t": "2026-11-05T05:00:00Z",
+          "support": 135,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 135
         }
       ]
     },
