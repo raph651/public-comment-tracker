@@ -277,37 +277,37 @@
     {
       "t": "2026-11-02T05:00:00Z",
       "support": 8539,
-      "oppose": 18242,
+      "oppose": 18243,
       "cantTell": 295,
-      "total": 27076
+      "total": 27077
     },
     {
       "t": "2026-11-03T05:00:00Z",
       "support": 8623,
-      "oppose": 18541,
+      "oppose": 18542,
       "cantTell": 304,
-      "total": 27468
+      "total": 27469
     },
     {
       "t": "2026-11-04T05:00:00Z",
       "support": 8633,
-      "oppose": 18639,
+      "oppose": 18640,
       "cantTell": 307,
-      "total": 27579
+      "total": 27580
     },
     {
       "t": "2026-11-05T05:00:00Z",
       "support": 8687,
-      "oppose": 18839,
+      "oppose": 18840,
       "cantTell": 319,
-      "total": 27845
+      "total": 27846
     },
     {
       "t": "2026-11-06T05:00:00Z",
-      "support": 8692,
-      "oppose": 18919,
-      "cantTell": 319,
-      "total": 27930
+      "support": 8698,
+      "oppose": 19037,
+      "cantTell": 323,
+      "total": 28058
     }
   ],
   "tags": [
@@ -824,7 +824,7 @@
     },
     {
       "id": "MM57",
-      "count": 42,
+      "count": 43,
       "points": [
         {
           "t": "2026-09-15T04:00Z",
@@ -930,6 +930,13 @@
           "oppose": 42,
           "cantTell": 0,
           "total": 42
+        },
+        {
+          "t": "2026-11-06T05:00:00Z",
+          "support": 0,
+          "oppose": 43,
+          "cantTell": 0,
+          "total": 43
         }
       ]
     },
