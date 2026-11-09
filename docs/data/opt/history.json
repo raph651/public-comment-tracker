@@ -157,16 +157,16 @@
     },
     {
       "t": "2026-11-09T05:00:00Z",
-      "support": 846,
-      "oppose": 6172,
-      "cantTell": 226,
-      "total": 7244
+      "support": 873,
+      "oppose": 6653,
+      "cantTell": 380,
+      "total": 7906
     }
   ],
   "tags": [
     {
       "id": "MM15",
-      "count": 711,
+      "count": 719,
       "points": [
         {
           "t": "2026-10-19T04:00Z",
@@ -276,15 +276,15 @@
         {
           "t": "2026-11-09T05:00:00Z",
           "support": 0,
-          "oppose": 711,
+          "oppose": 719,
           "cantTell": 0,
-          "total": 711
+          "total": 719
         }
       ]
     },
     {
       "id": "MM1",
-      "count": 212,
+      "count": 219,
       "points": [
         {
           "t": "2026-10-08T04:00Z",
@@ -358,16 +358,57 @@
         },
         {
           "t": "2026-11-09T05:00:00Z",
-          "support": 212,
+          "support": 219,
           "oppose": 0,
           "cantTell": 0,
-          "total": 212
+          "total": 219
+        }
+      ]
+    },
+    {
+      "id": "MM27",
+      "count": 75,
+      "points": [
+        {
+          "t": "2026-11-03T05:00:00Z",
+          "support": 0,
+          "oppose": 1,
+          "cantTell": 0,
+          "total": 1
+        },
+        {
+          "t": "2026-11-04T05:00:00Z",
+          "support": 0,
+          "oppose": 44,
+          "cantTell": 0,
+          "total": 44
+        },
+        {
+          "t": "2026-11-05T05:00:00Z",
+          "support": 0,
+          "oppose": 50,
+          "cantTell": 0,
+          "total": 50
+        },
+        {
+          "t": "2026-11-06T05:00:00Z",
+          "support": 0,
+          "oppose": 52,
+          "cantTell": 0,
+          "total": 52
+        },
+        {
+          "t": "2026-11-09T05:00:00Z",
+          "support": 0,
+          "oppose": 75,
+          "cantTell": 0,
+          "total": 75
         }
       ]
     },
     {
       "id": "MM16",
-      "count": 63,
+      "count": 72,
       "points": [
         {
           "t": "2026-10-23T04:00Z",
@@ -431,6 +472,13 @@
           "oppose": 63,
           "cantTell": 0,
           "total": 63
+        },
+        {
+          "t": "2026-11-09T05:00:00Z",
+          "support": 0,
+          "oppose": 72,
+          "cantTell": 0,
+          "total": 72
         }
       ]
     },
@@ -504,42 +552,8 @@
       ]
     },
     {
-      "id": "MM27",
-      "count": 52,
-      "points": [
-        {
-          "t": "2026-11-03T05:00:00Z",
-          "support": 0,
-          "oppose": 1,
-          "cantTell": 0,
-          "total": 1
-        },
-        {
-          "t": "2026-11-04T05:00:00Z",
-          "support": 0,
-          "oppose": 44,
-          "cantTell": 0,
-          "total": 44
-        },
-        {
-          "t": "2026-11-05T05:00:00Z",
-          "support": 0,
-          "oppose": 50,
-          "cantTell": 0,
-          "total": 50
-        },
-        {
-          "t": "2026-11-06T05:00:00Z",
-          "support": 0,
-          "oppose": 52,
-          "cantTell": 0,
-          "total": 52
-        }
-      ]
-    },
-    {
       "id": "MM2",
-      "count": 34,
+      "count": 36,
       "points": [
         {
           "t": "2026-10-09T04:00Z",
@@ -610,6 +624,13 @@
           "oppose": 34,
           "cantTell": 0,
           "total": 34
+        },
+        {
+          "t": "2026-11-09T05:00:00Z",
+          "support": 0,
+          "oppose": 36,
+          "cantTell": 0,
+          "total": 36
         }
       ]
     },
