@@ -154,12 +154,19 @@
       "oppose": 5663,
       "cantTell": 217,
       "total": 6596
+    },
+    {
+      "t": "2026-11-09T05:00:00Z",
+      "support": 846,
+      "oppose": 6172,
+      "cantTell": 226,
+      "total": 7244
     }
   ],
   "tags": [
     {
       "id": "MM15",
-      "count": 682,
+      "count": 711,
       "points": [
         {
           "t": "2026-10-19T04:00Z",
@@ -265,12 +272,19 @@
           "oppose": 682,
           "cantTell": 0,
           "total": 682
+        },
+        {
+          "t": "2026-11-09T05:00:00Z",
+          "support": 0,
+          "oppose": 711,
+          "cantTell": 0,
+          "total": 711
         }
       ]
     },
     {
       "id": "MM1",
-      "count": 157,
+      "count": 212,
       "points": [
         {
           "t": "2026-10-08T04:00Z",
@@ -341,6 +355,13 @@
           "oppose": 0,
           "cantTell": 0,
           "total": 157
+        },
+        {
+          "t": "2026-11-09T05:00:00Z",
+          "support": 212,
+          "oppose": 0,
+          "cantTell": 0,
+          "total": 212
         }
       ]
     },
