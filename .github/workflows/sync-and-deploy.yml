@@ -4,8 +4,9 @@ on:
   push:
     branches: ["main"]
   schedule:
-    # Every 6 hours; both dockets are refreshed in one run.
-    - cron: "37 */6 * * *"
+    # Both comment periods closed (Nov 9 and Nov 10, 2026), so a daily refresh
+    # is enough. Stops itself after 2026-11-24 (two weeks past the last close).
+    - cron: "37 9 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,7 +19,24 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  window:
+    runs-on: ubuntu-latest
+    outputs:
+      active: ${{ steps.gate.outputs.active }}
+    steps:
+      - name: Check the tracking window
+        id: gate
+        run: |
+          if [ "$(date -u +%Y%m%d)" -le 20261124 ]; then
+            echo "active=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Tracking window closed on 2026-11-24; skipping."
+            echo "active=false" >> "$GITHUB_OUTPUT"
+          fi
+
   sync-and-deploy:
+    needs: window
+    if: needs.window.outputs.active == 'true'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

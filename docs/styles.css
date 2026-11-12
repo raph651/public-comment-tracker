@@ -142,13 +142,6 @@ a:focus-visible {
   display: none;
 }
 
-.timer-value.is-closed::after {
-  content: "Comment period closed";
-  font-size: 0.42em;
-  letter-spacing: -0.01em;
-  color: var(--muted);
-}
-
 .timer-deadline {
   margin: 1.35rem 0 0;
   font-size: 0.94rem;
